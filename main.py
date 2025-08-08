@@ -5,6 +5,11 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.enums import ParseMode
 from pyrogram.enums import ChatMemberStatus
+from keep_alive import keep_alive
+
+# Aktifkan server agar bisa dipantau UptimeRobot
+keep_alive()
+
 import os
 import json
 from datetime import datetime
