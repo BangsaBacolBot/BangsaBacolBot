@@ -1,15 +1,11 @@
 from dotenv import load_dotenv
 load_dotenv()
 
+import asyncio
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.enums import ParseMode
 from pyrogram.enums import ChatMemberStatus
-from keep_alive import keep_alive
-
-# Aktifkan server agar bisa dipantau UptimeRobot
-keep_alive()
-
 import os
 import json
 from datetime import datetime
@@ -153,43 +149,65 @@ async def help_command(client, message):
 """
     await message.reply(text, parse_mode=ParseMode.HTML)
 
-# /about command
 @app.on_message(filters.command("about"))
 async def about_command(client, message):
     await message.reply(
         "Aku <b>@BangsaBacolBot</b>, pelayan setia para Bangsa Bacol!\n\n"
         "Bot ini dibuat untuk memberikan akses cepat ke koleksi spesial tanpa ribet. Klik perintah, dan langsung nonton!\n\n"
-        "Join: @BangsaBacol",
+        "📺 Cara nonton: https://t.me/BangsaBacol/26\n"
+        "🔑 Join VIP: https://trakteer.id/BangsaBacol/showcase\n"
+        "📢 Join Channel: @BangsaBacol\n"
+        "💬 Join Group: @BangsaBacolGroup",
         parse_mode=ParseMode.HTML
     )
 
-# Fallback untuk chat sembarangan (selain /start, /help, /about, /list)
 @app.on_message(filters.private & filters.text & ~filters.command(["start", "help", "about", "list"]))
 async def unknown_message(client, message):
     await message.reply_photo(
         photo="Img/usebot1.jpg",
         caption=(
-            "🤖<b>AKU GAG NGERTI MAKSUDMU, MANUSIA...</b>\n\n"
+            "🤖<b>BUSET! AKU GAK NGERTI MAKSUDMU, MANUSIA...</b>\n\n"
             "💡 Coba ketik <code>/start nama_koleksi</code> untuk akses koleksi.\n"
             "Lihat daftar kode koleksi di channel @BangsaBacol.\n\n"
-            "📺 Cara nonton: https://t.me/BangsaBacol/26"
+            "📺 Cara nonton: https://t.me/BangsaBacol/26\n"
+            "🔑 Join VIP: https://trakteer.id/BangsaBacol/showcase"
         ),
         parse_mode=ParseMode.HTML
     )
 
 # Sambut anggota baru
-@app.on_message(filters.new_chat_members)
+@app.on_message(filters.group & filters.new_chat_members)
 async def greet_new_member(client, message):
-    for new_member in message.new_chat_members:
-        if new_member.is_bot:
-            continue
+    for user in message.new_chat_members:
+        if user.is_bot:
+            continue  # skip kalau yang join bot
+
+        # Tombol join
+        buttons = InlineKeyboardMarkup([
+            [InlineKeyboardButton("📢 JOIN CHANNEL", url=f"https://t.me/{CHANNEL_USERNAME}")],
+            [InlineKeyboardButton("👥 JOIN GROUP", url=f"https://t.me/{GROUP_USERNAME}")],
+        ])
+
         welcome_text = (
-            f"👋 Selamat datang {new_member.mention} di grup <b>Bangsa Bacol</b>!\n\n"
-            "📢 Pastikan kamu juga join channel @BangsaBacol\n"
-            "📺 Untuk nonton koleksi lengkap, kirim perintah:\n<code>/start nama_koleksi</code>\n\n"
-            "🆘 Cek panduan cara nonton: https://t.me/BangsaBacol/26"
+            f"👋 Selamat datang {user.mention} di <b>{message.chat.title}</b>!\n\n"
+            "📢 Pastikan kamu join channel & group untuk akses koleksi spesial.\n"
+            "📺 Cara nonton: https://t.me/BangsaBacol/26\n\n"
+            "Ketik: <code>/start nama_koleksi</code> untuk mulai."
         )
-        await message.reply(welcome_text, parse_mode=ParseMode.HTML)
+
+        # Kirim pesan sambutan
+        sent_msg = await message.reply_text(
+            welcome_text,
+            parse_mode=ParseMode.HTML,
+            reply_markup=buttons
+        )
+
+        # Tunggu 120 detik lalu hapus pesan
+        await asyncio.sleep(120)
+        try:
+            await sent_msg.delete()
+        except:
+            pass  # kalau sudah dihapus manual atau tidak punya izin
 
 # Jalankan bot
 print("🚀 BOT AKTIF ✅ @BangsaBacolBot\nTekan CTRL+C untuk menghentikan.")
