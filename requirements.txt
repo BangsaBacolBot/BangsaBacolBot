@@ -1,4 +1,6 @@
-pyrogram==2.0.106
+pyrogram
 tgcrypto
-flask
 python-dotenv
+aiohttp
+requests
+colorlog
