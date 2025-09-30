@@ -1,1 +1,1 @@
-Join Telegram @BangsaBacol
+Nothing~
