@@ -3787,7 +3787,7 @@ async def cb_collectvip_confirm(client, cq):
         await cq.answer("✅ Disimpan!")
 
             # === Kirim log publik ===
-        GROUP_ID = -1003218692169  # ganti dengan channel publikmu
+        GROUP_ID = int(os.getenv("PUBLIC_LOG_CHANNEL_ID"))
         thumb_to_send = sess.get("thumbnail")
 
         if keys_required == 0:  # Stellar Free
