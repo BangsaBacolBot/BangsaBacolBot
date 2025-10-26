@@ -4531,7 +4531,7 @@ async def bot_command(client, message):
         f"🔵 <b>{BOT_MIRRORS[2]['role']}</b> | {BOT_MIRRORS[2]['name']}\n"
         f"➥ @{BOT_MIRRORS[2]['username']}\n\n"
 
-        f"Jangan lupa join Channel Cadanngan = {CHANNEL_CADANGAN}\n\n"
+        f"<b>Join Channel Cadangan = @{CHANNEL_CADANGAN}</b>\n\n"
         
         "📌 <b>Panduan Pemakaian:</b>\n"
         "• Gunakan 🟢 <b>Bot Utama</b> untuk semua aktivitas normal.\n"
