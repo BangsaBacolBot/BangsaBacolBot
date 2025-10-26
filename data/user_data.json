@@ -29612,9 +29612,9 @@
   },
   "7229172600": {
     "username": "jjyap881",
-    "xp": 463,
+    "xp": 464,
     "badge": "Stellar 🥈",
-    "last_seen": "2025-10-26T17:13:29.199087+07:00",
+    "last_seen": "2025-10-27T00:51:06.241052+07:00",
     "last_xp_dates": {
       "start": "2025-10-26",
       "claim": "2025-10-26",
@@ -29625,7 +29625,7 @@
       "random": "2025-10-26",
       "qris": "2025-10-26",
       "joinvip": "2025-10-26",
-      "claimbio": "2025-10-26",
+      "claimbio": "2025-10-27",
       "free": "2025-10-26",
       "search": "2025-10-26",
       "panduan": "2025-10-26",
@@ -29648,7 +29648,7 @@
       "unlock_rysanicol": "2025-10-23",
       "unlock_meilaniawang": "2025-10-24"
     },
-    "key": 2,
+    "key": 3,
     "last_weekly_claim": 1761238926,
     "supporter": true,
     "supporter_since": 1759420325,
@@ -29698,7 +29698,7 @@
       "meilaniawang",
       "auliarr"
     ],
-    "last_daily_bio_claim": 1761414635,
+    "last_daily_bio_claim": 1761501066,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
