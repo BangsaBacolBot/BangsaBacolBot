@@ -3462,7 +3462,7 @@ async def process_addvip(client, message, kode, link, keys_required, media_count
     thumb_to_send = get_thumb_path(thumb_filename)
 
     # ✅ Kirim ke Channel Publik
-    GROUP_ID = -1002806851234
+    GROUP_ID = -1003218692169
     caption_public = CAPTION_BROADCAST.format(kode=kode, media_count=media_count)
 
     if thumb_to_send:
@@ -3787,7 +3787,7 @@ async def cb_collectvip_confirm(client, cq):
         await cq.answer("✅ Disimpan!")
 
             # === Kirim log publik ===
-        GROUP_ID = -1002806851234  # ganti dengan channel publikmu
+        GROUP_ID = -1003218692169  # ganti dengan channel publikmu
         thumb_to_send = sess.get("thumbnail")
 
         if keys_required == 0:  # Stellar Free
