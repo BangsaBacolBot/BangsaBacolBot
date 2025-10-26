@@ -639,10 +639,10 @@ try:
     API_ID = int(os.getenv("API_ID"))
     API_HASH = os.getenv("API_HASH")
     BOT_TOKEN = os.getenv("BOT_TOKEN")
-    CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME")
+    CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "-1003218692169")
     GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     EXTRA_CHANNEL    = os.getenv("EXTRA_CHANNEL")
-    PUBLIC_LOG_CHANNEL_ID = int(os.getenv("PUBLIC_LOG_CHANNEL_ID", "0"))
+    PUBLIC_LOG_CHANNEL_ID = int(os.getenv("PUBLIC_LOG_CHANNEL_ID", "-1003294827585"))
     CHANNEL_VIP = int(os.getenv("CHANNEL_VIP", "-1002709095559"))
     CHANNEL_CADANGAN = os.getenv("CHANNEL_CADANGAN")
 except (TypeError, ValueError) as e:
