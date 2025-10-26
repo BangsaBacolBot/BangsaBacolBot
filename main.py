@@ -644,6 +644,7 @@ try:
     EXTRA_CHANNEL    = os.getenv("EXTRA_CHANNEL")
     PUBLIC_LOG_CHANNEL_ID = int(os.getenv("PUBLIC_LOG_CHANNEL_ID", "0"))
     CHANNEL_VIP = int(os.getenv("CHANNEL_VIP", "-1002709095559"))
+    CHANNEL_CADANGAN = os.getenv("CHANNEL_CADANGAN")
 except (TypeError, ValueError) as e:
     logger.error(f"Error loading environment variables: {e}")
     raise SystemExit(1)
@@ -4529,6 +4530,8 @@ async def bot_command(client, message):
         f"➥ @{BOT_MIRRORS[1]['username']}\n\n"
         f"🔵 <b>{BOT_MIRRORS[2]['role']}</b> | {BOT_MIRRORS[2]['name']}\n"
         f"➥ @{BOT_MIRRORS[2]['username']}\n\n"
+
+        f"Jangan lupa join Channel Cadanngan = {CHANNEL_CADANGAN}\n\n"
         
         "📌 <b>Panduan Pemakaian:</b>\n"
         "• Gunakan 🟢 <b>Bot Utama</b> untuk semua aktivitas normal.\n"
@@ -4779,8 +4782,8 @@ VIP_SESSIONS = {}
 LOG_CHANNEL = -1002316200587
 
 # Prices (edit to match your real prices)
-LIFETIME_PRICE = "175K"
-MONTHLY_PRICE = "75K"
+LIFETIME_PRICE = "200K"
+MONTHLY_PRICE = "100K"
 
 # --------------------------------------------
 
