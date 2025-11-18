@@ -6375,15 +6375,22 @@ async def cmd_claim_bio(client, message: Message):
     # cek cooldown harian
     can_claim, remaining = can_claim_daily_bio(user_id)
     if not can_claim:
-        hours = remaining // 3600
-        minutes = (remaining % 3600) // 60
+        # Konversi remaining detik ke Hari, Jam, Menit
+        days = remaining // 86400
+        remaining_after_days = remaining % 86400
+        hours = remaining_after_days // 3600
+        minutes = (remaining_after_days % 3600) // 60
+        
+        # Buat teks sisa waktu (Hari, Jam, Menit)
+        time_text = f"{days} hari, {hours} jam, {minutes} menit"
+        
         return await message.reply(
             (
                 "┏━━━━━━━━━━━━━━━\n"
-                "┃ ⏳ <b>Sudah Klaim Hari Ini</b>\n"
+                "┃ ⏳ <b>Sudah Klaim Dalam 3 Hari</b>\n"
                 "┗━━━━━━━━━━━━━━━\n\n"
-                f"Kamu sudah klaim hari ini.\n"
-                f"Coba lagi dalam {hours} jam {minutes} menit."
+                f"Kamu sudah klaim bio. Klaim hanya bisa dilakukan setiap <b>3 hari sekali</b>.\n"
+                f"Coba lagi dalam <b>{time_text}</b>."
             ),
             parse_mode=ParseMode.HTML
         )
