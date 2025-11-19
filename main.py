@@ -6335,69 +6335,57 @@ async def cmd_claim_bio(client, message: Message):
     user = message.from_user
     if not user:
         return
-
     user_id = user.id
     username = user.username or "NoUsername"
 
-    # 🔹 Update supporter badge dulu (cek bio + set supporter True/False)
+    # 🔹 Update supporter badge dulu
     await update_supporter_badge(client, user_id)
 
     # 🚩 Cek supporter badge
     if not has_supporter_badge(user_id):
         return await message.reply(
-            (
-                "┏━━━━━━━━━━━━━━━\n"
-                "┃ ⚠️ <b>Belum Supporter</b>\n"
-                "┗━━━━━━━━━━━━━━━\n\n"
-                "Kamu belum punya badge <b>Supporter ✅</b>.\n"
-                "Tulis <code>@BangsaBacol</code> di bio Telegram kamu untuk mendapatkan badge <b>Supporter!</b>"
-            ),
+            "┏━━━━━━━━━━━━━━━\n"
+            "┃ ⚠️ <b>Belum Supporter</b>\n"
+            "┗━━━━━━━━━━━━━━━\n\n"
+            "Kamu belum punya badge <b>Supporter ✅</b>.\n"
+            "Tulis <code>@BangsaBacol</code> di bio Telegram kamu untuk mendapatkan badge <b>Supporter!</b>",
             parse_mode=ParseMode.HTML
         )
-    
-    # 🚩 Cek minimal durasi pasang bio
+
+    # 🚩 Minimal durasi 12 jam setelah pasang bio
     MIN_HOURS = 12
     since = get_supporter_since(user_id)
     elapsed = int(time.time()) - since
     if elapsed < MIN_HOURS * 3600:
         remain = (MIN_HOURS * 3600 - elapsed) // 60
         return await message.reply(
-            (
-                "┏━━━━━━━━━━━━━━━\n"
-                "┃ ⏳ <b>Belum Bisa Klaim</b>\n"
-                "┗━━━━━━━━━━━━━━━\n\n"
-                f"Badge Supporter baru aktif {elapsed//60} menit lalu.\n"
-                f"Tunggu {remain} menit lagi sebelum bisa klaim."
-            ),
+            "┏━━━━━━━━━━━━━━━\n"
+            "┃ ⏳ <b>Belum Bisa Klaim</b>\n"
+            "┗━━━━━━━━━━━━━━━\n\n"
+            f"Badge Supporter baru aktif {elapsed//60} menit lalu.\n"
+            f"Tunggu {remain} menit lagi sebelum bisa klaim.",
             parse_mode=ParseMode.HTML
         )
 
-    # cek cooldown harian
+    # 🔥 Cooldown 3 hari (72 jam)
     can_claim, remaining = can_claim_daily_bio(user_id)
     if not can_claim:
-        # Konversi remaining detik ke Hari, Jam, Menit
         days = remaining // 86400
-        remaining_after_days = remaining % 86400
-        hours = remaining_after_days // 3600
-        minutes = (remaining_after_days % 3600) // 60
-        
-        # Buat teks sisa waktu (Hari, Jam, Menit)
+        hours = (remaining % 86400) // 3600
+        minutes = (remaining % 3600) // 60
         time_text = f"{days} hari, {hours} jam, {minutes} menit"
-        
         return await message.reply(
-            (
-                "┏━━━━━━━━━━━━━━━\n"
-                "┃ ⏳ <b>Sudah Klaim Dalam 3 Hari</b>\n"
-                "┗━━━━━━━━━━━━━━━\n\n"
-                f"Kamu sudah klaim bio. Klaim hanya bisa dilakukan setiap <b>3 hari sekali</b>.\n"
-                f"Coba lagi dalam <b>{time_text}</b>."
-            ),
+            "┏━━━━━━━━━━━━━━━\n"
+            "┃ ⏳ <b>Sudah Klaim Dalam 3 Hari Terakhir</b>\n"
+            "┗━━━━━━━━━━━━━━━\n\n"
+            "Klaim hanya bisa dilakukan setiap <b>3 hari sekali</b>.\n"
+            f"Coba lagi dalam <b>{time_text}</b>.",
             parse_mode=ParseMode.HTML
         )
 
-    # kasih reward
+    # Reward diberikan
     add_user_key(user_id, 1)
-    set_daily_bio_claim(user_id)
+    set_daily_bio_claim(user_id)  # <- otomatis set 3 hari cooldown
     saldo = get_user_key(user_id)
 
     teks = (
