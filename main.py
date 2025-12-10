@@ -6286,9 +6286,15 @@ def can_claim_daily_bio(user_id: int):
     user = data.get(str(user_id), {})
     last = int(user.get("last_daily_bio_claim", 0))
     now_ts = int(time.time())
-    if now_ts - last >= 86400:
+    
+    # GANTI 86400 JADI 259200 (3 HARI)
+    COOLDOWN = 259200 
+    
+    if now_ts - last >= COOLDOWN:
         return True, 0
-    return False, 86400 - (now_ts - last)
+    
+    # Return sisa waktunya juga harus disesuaikan dengan cooldown baru
+    return False, COOLDOWN - (now_ts - last)
 
 def set_daily_bio_claim(user_id: int):
     data = load_user_data()
