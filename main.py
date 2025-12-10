@@ -6280,6 +6280,10 @@ async def profile_cmd(client, message):
 # --- CLAIM VIA BIO (Daily referral claim) ---
 # Paste ini di main.py (mis. dekat handler /claim)
 
+# ==========================================
+# 🟢 HELPER FUNCTIONS (Database & Logic)
+# ==========================================
+
 def can_claim_daily_bio(user_id: int):
     """Return (can_claim: bool, remaining_seconds: int)."""
     data = load_user_data()
@@ -6287,14 +6291,15 @@ def can_claim_daily_bio(user_id: int):
     last = int(user.get("last_daily_bio_claim", 0))
     now_ts = int(time.time())
     
-    # GANTI 86400 JADI 259200 (3 HARI)
+    # ✅ FIX: 3 HARI = 259200 Detik
     COOLDOWN = 259200 
     
-    if now_ts - last >= COOLDOWN:
+    elapsed = now_ts - last
+    if elapsed >= COOLDOWN:
         return True, 0
     
-    # Return sisa waktunya juga harus disesuaikan dengan cooldown baru
-    return False, COOLDOWN - (now_ts - last)
+    # Return sisa waktu (Cooldown - Waktu berjalan)
+    return False, COOLDOWN - elapsed
 
 def set_daily_bio_claim(user_id: int):
     data = load_user_data()
@@ -6334,8 +6339,13 @@ def set_supporter_badge(user_id: int, value: bool):
     data[str(user_id)] = user
     save_user_data(data)
 
+# ==========================================
+# 🎮 HANDLER COMMAND
+# ==========================================
+
 @app.on_message(filters.command("claimbio") & filters.private)
 async def cmd_claim_bio(client, message: Message):
+    # Grant XP (pastikan fungsi ini ada)
     await grant_xp_for_command(client, message, "claimbio")
 
     user = message.from_user
@@ -6344,7 +6354,7 @@ async def cmd_claim_bio(client, message: Message):
     user_id = user.id
     username = user.username or "NoUsername"
 
-    # 🔹 Update supporter badge dulu
+    # 🔹 Update supporter badge dulu (pastikan fungsi ini ada)
     await update_supporter_badge(client, user_id)
 
     # 🚩 Cek supporter badge
@@ -6360,8 +6370,10 @@ async def cmd_claim_bio(client, message: Message):
 
     # 🚩 Minimal durasi 12 jam setelah pasang bio
     MIN_HOURS = 12
-    since = get_supporter_since(user_id)
+    # Pastikan fungsi get_supporter_since ada
+    since = get_supporter_since(user_id) 
     elapsed = int(time.time()) - since
+    
     if elapsed < MIN_HOURS * 3600:
         remain = (MIN_HOURS * 3600 - elapsed) // 60
         return await message.reply(
@@ -6375,14 +6387,16 @@ async def cmd_claim_bio(client, message: Message):
 
     # 🔥 Cooldown 3 hari (72 jam)
     can_claim, remaining = can_claim_daily_bio(user_id)
+    
     if not can_claim:
         days = remaining // 86400
         hours = (remaining % 86400) // 3600
         minutes = (remaining % 3600) // 60
         time_text = f"{days} hari, {hours} jam, {minutes} menit"
+        
         return await message.reply(
             "┏━━━━━━━━━━━━━━━\n"
-            "┃ ⏳ <b>Sudah Klaim Dalam 3 Hari Terakhir</b>\n"
+            "┃ ⏳ <b>Sudah Klaim</b>\n"
             "┗━━━━━━━━━━━━━━━\n\n"
             "Klaim hanya bisa dilakukan setiap <b>3 hari sekali</b>.\n"
             f"Coba lagi dalam <b>{time_text}</b>.",
@@ -6391,7 +6405,7 @@ async def cmd_claim_bio(client, message: Message):
 
     # Reward diberikan
     add_user_key(user_id, 1)
-    set_daily_bio_claim(user_id)  # <- otomatis set 3 hari cooldown
+    set_daily_bio_claim(user_id)  # <- otomatis set cooldown
     saldo = get_user_key(user_id)
 
     teks = (
@@ -6404,6 +6418,7 @@ async def cmd_claim_bio(client, message: Message):
     )
     await message.reply_text(teks, parse_mode=ParseMode.HTML)
 
+    # Logs
     try:
         await send_vip_log(
             client,
