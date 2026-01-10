@@ -2095,72 +2095,94 @@ async def help_menu(client, message):
 
     help_text = """
 🤖 <b>DAFTAR PERINTAH BANGSA BACOL BOT</b>
+<i>Ringkasan command penting agar tidak lupa</i>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 👥 <b>UNTUK SEMUA PENGGUNA</b>
 ━━━━━━━━━━━━━━━━━━━━━━
 • <code>/start kode</code> → Buka koleksi dengan kode  
-• <code>/random</code> → Koleksi acak (3x sehari)  
-• <code>/listvip</code> → Lihat Koleksi VIP  
-• <code>/profile</code> → Lihat profil (XP, Badge, Key)  
-• <code>/ping</code> → Cek status bot  
-• <code>/lapor</code> → Lapor ke Admin Pusat  
+• <code>/random</code> → Koleksi acak (limit harian)  
+• <code>/listvip</code> → Lihat semua koleksi VIP  
+• <code>/myvip</code> → Koleksi yang sudah kamu miliki  
+• <code>/profile</code> → Profil (Badge, XP, Key)  
 • <code>/search kata</code> → Cari koleksi  
 • <code>/free</code> → Koleksi gratis  
-• <code>/joinvip</code> → Info unlock VIP penuh  
-• <code>/request</code> → Request koleksi  
-• <code>/about</code> → Info tentang bot  
+• <code>/freekey</code> → Ambil free key  
+• <code>/claim</code> → Klaim reward berkala  
+• <code>/ping</code> → Cek status bot  
+• <code>/panduan</code> → Panduan lengkap  
+• <code>/about</code> → Tentang bot  
 • <code>/bot</code> → Daftar bot resmi  
-• <code>/panduan</code> → Panduan penggunaan  
-• <code>/freekey</code> → Free Key
+• <code>/lapor</code> → Lapor ke Admin  
+• <code>/feedback</code> → Kirim masukan  
+• <code>/request</code> → Request koleksi  
 
 ━━━━━━━━━━━━━━━━━━━━━━
-🎁 <b>FITUR KEY & VIP</b>
+🎁 <b>KEY, VIP & PEMBAYARAN</b>
 ━━━━━━━━━━━━━━━━━━━━━━
-• <code>/qris</code> → Isi saldo Key via QRIS  
-• <code>/claim</code> → Ambil Key gratis mingguan  
-• <code>/listvip</code> → Daftar Koleksi VIP  
-• <code>/myvip</code> → Lihat koleksi yang sudah kamu buka  
-• Koleksi yang sudah terbuka → bisa diakses ulang  
-• <code>/setvip</code> → Promote VIP  
-• <code>/unsetvip</code> → Cabut VIP 
+• <code>/qris</code> → Isi Key via QRIS  
+• <code>/joinvip</code> → Info unlock VIP  
+• <code>/setvip</code> → Set VIP user  
+• <code>/unsetvip</code> → Cabut VIP user  
+• <code>/topup</code> → Topup key manual  
+• <code>/canceltopup</code> → Batalkan topup  
+• <code>/key ID</code> → Cek key user  
+• <code>/resetkey ID</code> → Reset key user  
+• <code>/giftkey</code> → Bagi key ke user  
+• <code>/cancelgift</code> → Batalkan gift key  
+• <code>/hasil_request</code> → Hasil vote request  
 
 ━━━━━━━━━━━━━━━━━━━━━━
-👑 <b>KHUSUS OWNER/ADMIN</b>
+📦 <b>Koleksi (LINK)</b>
 ━━━━━━━━━━━━━━━━━━━━━━
-📦 <b>Koleksi (Link)</b>  
-• <code>/addvip</code> Kode Link Key → Tambah Koleksi VIP (link)  
-• <code>/delvip</code> Kode → Hapus Koleksi VIP (link)  
-• <code>/add</code> Kode Link → Tambah Koleksi biasa  
-• <code>/delete</code> Kode → Hapus Koleksi biasa  
+• <code>/addvip</code> → Tambah koleksi VIP (link)  
+• <code>/delvip</code> → Hapus koleksi VIP (link)  
+• <code>/add</code> → Tambah koleksi biasa  
+• <code>/delete</code> → Hapus koleksi biasa  
 
-🗂 <b>Koleksi (File-ID)</b>  
-• <code>/collectvip</code> → Mulai sesi pengumpulan file  
-   ↳ Kirim media satu per satu (foto/video/dokumen)  
-   ↳ Bot akan otomatis menyimpan file_id  
-   ↳ Setelah selesai, gunakan <code>/finish_collect kode keys media_count</code>  
-• <code>/abort_collect</code> → Batalkan sesi aktif  
-• <code>/delcollect kode</code> → Hapus koleksi file_id (jika kamu menambahkan command ini)
+━━━━━━━━━━━━━━━━━━━━━━
+🗂 <b>Koleksi (FILE / MEDIA)</b>
+━━━━━━━━━━━━━━━━━━━━━━
+• <code>/collectvip</code> → Mulai sesi collect media  
+• <code>/finish_collect</code> → Selesaikan collect  
+• <code>/abort_collect</code> → Batalkan collect  
+• <code>/reset_collect</code> → Reset session collect  
+• <code>/addmedia</code> → Tambah media ke koleksi  
+• <code>/finish_addmedia</code> → Selesai tambah media  
+• <code>/abort_addmedia</code> → Batalkan tambah media  
+• <code>/delcollect kode</code> → Hapus koleksi file_id  
+• <code>/deluserkoleksi ID kode</code> → Hapus koleksi user tertentu  
 
-🛠 <b>Manajemen & Utilitas</b>  
-• <code>/stats</code> → Statistik klik 7 hari  
+━━━━━━━━━━━━━━━━━━━━━━
+🛠 <b>SISTEM & MODERASI</b>
+━━━━━━━━━━━━━━━━━━━━━━
+• <code>/stats</code> → Statistik bot  
 • <code>/dashboard</code> → Dashboard interaktif  
 • <code>/healthcheck</code> → Cek kesehatan bot  
-• <code>/reload_badwords</code> → Refresh daftar badwords  
-• <code>/reload_interaction</code> → Refresh pesan interaksi  
-• <code>/reset_top</code> → Reset leaderboard XP  
-• <code>/topup</code> → Tambah saldo Key user  
-• <code>/resetkey ID</code> → Reset Key 
-• <code>/key ID</code> → Cek saldo Key user  
-• <code>/hasil_request</code> → Lihat hasil vote request  
-• <code>/giftkey</code> → Kirim Key berdasarkan hasil vote  
+• <code>/log</code> → Log aktivitas  
+• <code>/prune_logs</code> → Bersihkan log  
+• <code>/top</code> → Leaderboard XP  
+• <code>/reset_top</code> → Reset leaderboard  
+• <code>/whois ID</code> → Info user  
+• <code>/mute</code> → Mute user  
+• <code>/unmute</code> → Unmute user  
+• <code>/badwords</code> → Cek badwords  
+• <code>/reload_badwords</code> → Reload badwords  
+• <code>/reload_interaction</code> → Reload pesan interaksi  
 
 ━━━━━━━━━━━━━━━━━━━━━━
-ℹ️ <b>CATATAN</b>  
-• Beberapa command sensitif hanya bisa dipakai oleh Owner/Admin  
-• Moderator hanya aktif di group  
-• Semua user bisa pakai perintah umum & VIP  
-• Koleksi file_id memungkinkan kirim ulang file langsung via bot (lebih aman daripada link)  
+👑 <b>OWNER ONLY</b>
+━━━━━━━━━━━━━━━━━━━━━━
+• <code>/setowner</code> → Tambah owner  
+• <code>/unsetowner</code> → Hapus owner  
+
+━━━━━━━━━━━━━━━━━━━━━━
+ℹ️ <b>CATATAN PENTING</b>
+━━━━━━━━━━━━━━━━━━━━━━
+• Command sensitif hanya untuk Owner/Admin  
+• Jika command tidak dikenali → cek /help  
+• Bot aktif 24 jam (VPS)  
+• Koleksi file_id lebih aman dari link 
 """
     await message.reply_text(help_text, parse_mode=ParseMode.HTML, disable_web_page_preview=True)
 
@@ -4649,6 +4671,54 @@ async def cb_claim_weekly(client, cq: CallbackQuery):
 async def ping_cmd(client, message):
     await grant_xp_for_command(client, message, "ping")
     await message.reply("✅ Pong! Bot aktif dan responsif.")
+
+@app.on_message(filters.command("deluserkoleksi") & filters.private)
+async def cmd_del_user_collection(client, message):
+    if not (is_owner(message) or is_admin(message)):
+        return await message.reply("❌ Perintah ini hanya untuk Admin.")
+
+    args = message.text.split()
+    if len(args) != 3:
+        return await message.reply(
+            "⚠️ Format salah.\n\n"
+            "Gunakan:\n"
+            "`/deluserkoleksi <user_id> <kode_koleksi>`",
+            parse_mode=ParseMode.MARKDOWN
+        )
+
+    target_uid = args[1]
+    kode = args[2].lower()
+
+    load_user_data()  # pastikan data terbaru
+    user = USER_DATA.get(target_uid)
+
+    if not user:
+        return await message.reply("❌ User tidak ditemukan.")
+
+    collections = user.get("collections", [])
+
+    if kode not in collections:
+        return await message.reply(
+            f"⚠️ Koleksi `{kode}` tidak dimiliki user ini.",
+            parse_mode=ParseMode.MARKDOWN
+        )
+
+    collections.remove(kode)
+    user["collections"] = collections
+    save_user_data()
+
+    await message.reply(
+        f"✅ Koleksi `{kode}` berhasil dihapus dari user `{target_uid}`.",
+        parse_mode=ParseMode.MARKDOWN
+    )
+
+    # Optional: log admin
+    await send_public_log(
+        client,
+        event="admin-remove-collection",
+        badge="ADMIN 🛡",
+        extra=f"UID {target_uid} → hapus koleksi {kode}"
+    )
 
 @app.on_message(filters.command("random"))
 @require_membership(callback_data="verify_random")
@@ -8093,7 +8163,7 @@ async def unknown_or_fallback(client, message: Message):
             "badwords",
             # VIP Management
             "addvip", "delvip", "add", "delete", "prune_logs", "setowner",
-            "reload_badwords", "reload_interaction", "reset_top", "unsetowner",
+            "reload_badwords", "reload_interaction", "reset_top", "unsetowner", "deluserkoleksi",
             # File collect
             "collectvip", "abort_collect", "finish_collect", "reset_collect", "delcollect",
             "addmedia", "abort_addmedia", "finish_addmedia"
