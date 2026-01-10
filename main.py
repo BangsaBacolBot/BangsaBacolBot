@@ -4690,7 +4690,7 @@ async def cmd_del_user_collection(client, message):
     kode = args[2].lower()
 
     load_user_data()  # pastikan data terbaru
-    user = USER_DATA.get(target_uid)
+    user = user_data.get(str(target_uid))
 
     if not user:
         return await message.reply("❌ User tidak ditemukan.")
