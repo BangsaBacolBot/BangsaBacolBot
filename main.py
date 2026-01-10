@@ -4686,12 +4686,12 @@ async def cmd_del_user_collection(client, message):
             parse_mode=ParseMode.MARKDOWN
         )
 
-    target_uid = args[1]
+    target_uid = str(args[1])
     kode = args[2].lower()
 
-    load_user_data()  # pastikan data terbaru
-    user = user_data.get(str(target_uid))
+    load_user_data()
 
+    user = USER_DATA.get(target_uid)
     if not user:
         return await message.reply("❌ User tidak ditemukan.")
 
@@ -4705,6 +4705,8 @@ async def cmd_del_user_collection(client, message):
 
     collections.remove(kode)
     user["collections"] = collections
+    USER_DATA[target_uid] = user
+
     save_user_data()
 
     await message.reply(
@@ -4712,7 +4714,6 @@ async def cmd_del_user_collection(client, message):
         parse_mode=ParseMode.MARKDOWN
     )
 
-    # Optional: log admin
     await send_public_log(
         client,
         event="admin-remove-collection",
