@@ -4674,11 +4674,13 @@ async def ping_cmd(client, message):
 
 @app.on_message(filters.command("deluserkoleksi") & filters.private)
 async def cmd_del_user_collection(client, message):
+    admin = message.from_user.id
+
     if not (is_owner(message) or is_admin(message)):
         return await message.reply("❌ Perintah ini hanya untuk Admin.")
 
-    args = message.text.split()
-    if len(args) != 3:
+    parts = message.text.split()
+    if len(parts) != 3:
         return await message.reply(
             "⚠️ Format salah.\n\n"
             "Gunakan:\n"
@@ -4686,8 +4688,8 @@ async def cmd_del_user_collection(client, message):
             parse_mode=ParseMode.MARKDOWN
         )
 
-    target_uid = str(args[1])
-    kode = args[2].lower()
+    target_uid = str(parts[1])
+    kode = parts[2].lower()
 
     # 🔹 load data user
     data = load_user_data()
@@ -4696,33 +4698,33 @@ async def cmd_del_user_collection(client, message):
     if not user:
         return await message.reply("❌ User tidak ditemukan.")
 
-    collections = user.get("collections", [])
+    # 🔹 ambil / buat blocked list
+    blocked = user.setdefault("blocked_collections", [])
 
-    if kode not in collections:
+    if kode in blocked:
         return await message.reply(
-            f"⚠️ Koleksi `{kode}` tidak dimiliki user ini.",
+            f"⚠️ Koleksi `{kode}` sudah diblokir untuk user ini.",
             parse_mode=ParseMode.MARKDOWN
         )
 
-    # 🔹 hapus koleksi
-    collections.remove(kode)
-    user["collections"] = collections
+    # 🔹 blokir koleksi
+    blocked.append(kode)
+    user["blocked_collections"] = blocked
     data[target_uid] = user
 
-    # 🔹 simpan perubahan
     save_user_data(data)
 
     await message.reply(
-        f"✅ Koleksi `{kode}` berhasil dihapus dari user `{target_uid}`.",
+        f"🚫 Koleksi `{kode}` berhasil diblokir untuk user `{target_uid}`.",
         parse_mode=ParseMode.MARKDOWN
     )
 
     # 🔹 log admin
     await send_public_log(
         client,
-        event="admin-remove-collection",
+        event="admin-block-user-collection",
         badge="ADMIN 🛡",
-        extra=f"UID {target_uid} → hapus koleksi {kode}"
+        extra=f"UID {target_uid} → block koleksi {kode}"
     )
 
 @app.on_message(filters.command("random"))
