@@ -1,0 +1,12 @@
+# === RUNTIME DATA (JANGAN PERNAH DIPULL) ===
+data/*.json
+vip_*.json
+votes.json
+
+# === MEDIA & LOG ===
+Img/
+logs/
+
+# === SESSION & SECRET ===
+.env
+*.session*
