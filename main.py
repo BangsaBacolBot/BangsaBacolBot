@@ -4828,7 +4828,7 @@ Sedangkan <b>Admin & Menteri</b> aktif di Channel VIP.
 - 🔑 Join VIP → <a href="https://trakteer.id/BangsaBacolers/showcase">Klik di sini</a>  
 
 📢 Channel: <a href="https://t.me/BangsaBacol">@BangsaBacol</a>  
-💬 Group: <a href="https://t.me/BangsaBacolGroup">@BangsaBacolGroup</a>
+💬 Group: <a href="https://t.me/BangsaBacolGroups">@BangsaBacolGroups</a>
 """
     await message.reply_text(teks, disable_web_page_preview=True, parse_mode=ParseMode.HTML)
 
