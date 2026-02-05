@@ -846,7 +846,7 @@ async def grant_xp_for_command(client, message, invoked_command: str, xp_increme
         logger.error(f"[XP_ERROR] Gagal menambahkan XP untuk {user_id} ({username}): {e}")
 
 BADGE_TIERS = [
-    ("Starlord 🥇", 9999),
+    ("Starlord 🥇", 9999999999),
     ("Stellar 🥈", 200),
     ("Shimmer 🥉", 100),
     ("Stranger 🔰", 0),
@@ -889,7 +889,7 @@ def update_user_xp(user_id: int, username: str, invoked_command: str, xp_increme
 
     # 🎖 Tentukan badge baru
     xp = user["xp"]
-    if xp >= 9999:
+    if xp >= 9999999999:
         new_badge = BADGE_STARLORD
     elif xp >= 200:
         new_badge = BADGE_STELLAR
@@ -1938,7 +1938,7 @@ async def start_command(client, message):
                     f"Silakan periksa kembali kodenya di channel @{CHANNEL_USERNAME}.\n\n"
                     "👉 Bantuan dan Dukungan:\n"
                     f"💌 <a href='https://t.me/BangsaBacol_Bot?start=lapor'>Lapor ke Admin</a>\n"
-                    f"📜 <a href='https://t.me/BangsaBacol/8'>Daftar Bantuan</a>",
+                    f"📜 <a href='https://t.me/BangsaBacolViral/43'>Daftar Bantuan</a>",
                     parse_mode=ParseMode.HTML
                 )
                 return
@@ -1975,7 +1975,7 @@ async def start_command(client, message):
                     "🎁 <b>Jangan lupa /claim hadiah kamu!</b>\n\n"
                     "👉 <b>Bantuan & Dukungan:</b>\n"
                     f"💌 <a href='https://t.me/BangsaBacol_Bot?start=lapor'>Lapor ke Admin</a> | "
-                    f"📜 <a href='https://t.me/BangsaBacol/8'>Daftar Bantuan</a>"
+                    f"📜 <a href='https://t.me/BangsaBacolViral/43'>Daftar Bantuan</a>"
                 ),
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.HTML
@@ -2015,7 +2015,7 @@ async def start_command(client, message):
         "• /panduan → Baca Panduan Lengkap\n"
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         "🆘 <b>Bantuan & Dukungan</b>\n"
-        "🔔 <a href='https://t.me/BangsaBacol/8'>Daftar Bantuan</a>\n"
+        "🔔 <a href='https://t.me/BangsaBacolViral/43'>Daftar Bantuan</a>\n"
         "💌 <a href='https://t.me/BangsaBacol_Bot?start=lapor'>Lapor ke Admin Pusat</a>\n"
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         "🔥 <i>Selamat menjalani ritual kenikmatan ya!</i>"
@@ -2201,13 +2201,11 @@ async def cmd_panduan(client, message):
 🔑 <b>PERINTAH UMUM</b>
 <pre>
 /start kode   : Buka koleksi
-/random       : Pilih koleksi acak
 /listvip      : Daftar Koleksi lengkap
 /profile      : Lihat profil detail
 /ping         : Cek status bot
 /lapor        : Hubungi Admin Pusat
 /search kata  : Cari koleksi
-/free         : Koleksi gratis
 /joinvip      : Unlock VIP penuh
 /request      : Request koleksi
 /about        : Tentang bot ini
@@ -2229,7 +2227,7 @@ Mainin command & Unlock koleksi
 🥇 Starlord   : MEMBER VIP</pre>
 🆘 <b>BANTUAN DAN DUKUNGAN</b>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔔 <a href="https://t.me/BangsaBacol/8">Daftar Bantuan</a> | 💌 <a href="https://t.me/BangsaBacol_Bot?start=lapor">Lapor ke Admin</a>  
+🔔 <a href="https://t.me/BangsaBacolViral/43">Daftar Bantuan</a> | 💌 <a href="https://t.me/BangsaBacol_Bot?start=lapor">Lapor ke Admin</a>  
 
 🔥 <b>Selamat menikmati koleksi & jangan lupa ritual kenikmatan</b>💦
 """
@@ -3362,7 +3360,7 @@ VIP_CAPTION_TEMPLATE_1 = (
     "**SILAHKAN RITUAL KENIKMATAN!**\n"
     "⛔️ **Butuh Bantuan?**\n"
     "💌 [Lapor ke Admin](https://t.me/BangsaBacol_Bot?start=lapor) | "
-    "📜 [Daftar Bantuan](https://t.me/BangsaBacol/8)"
+    "📜 [Daftar Bantuan](https://t.me/BangsaBacolViral/43)"
 )
 
 CAPTION_BROADCAST = (
@@ -3380,7 +3378,7 @@ CAPTION_BROADCAST = (
     "━━━━━━━━━━━━━━\n"
     "⛔️ **Butuh Bantuan?**\n"
     "💌 [Lapor ke Admin](https://t.me/BangsaBacol_Bot?start=lapor) | "
-    "📜 [Daftar Bantuan](https://t.me/BangsaBacol/8)"
+    "📜 [Daftar Bantuan](https://t.me/BangsaBacolViral/43)"
 )
 
 @app.on_message(filters.command("addvip") & filters.private)
@@ -3484,7 +3482,7 @@ async def process_addvip(client, message, kode, link, keys_required, media_count
     thumb_to_send = get_thumb_path(thumb_filename)
 
     # ✅ Kirim ke Channel Publik
-    GROUP_ID = -1003294827585
+    GROUP_ID = -1003218692169
     caption_public = CAPTION_BROADCAST.format(kode=kode, media_count=media_count)
 
     if thumb_to_send:
@@ -3828,7 +3826,7 @@ async def cb_collectvip_confirm(client, cq):
                 "━━━━━━━━━━━━━━\n"
                 "⛔️ **Butuh Bantuan?**\n"
                 "💌 [Lapor ke Admin](https://t.me/BangsaBacol_Bot?start=lapor) | "
-                "📜 [Daftar Bantuan](https://t.me/BangsaBacol/8)"
+                "📜 [Daftar Bantuan](https://t.me/BangsaBacolViral/43)"
             )
         elif str(keys_required) == "?":  # Shimmer Free
             caption = (
@@ -3846,7 +3844,7 @@ async def cb_collectvip_confirm(client, cq):
                 "━━━━━━━━━━━━━━\n"
                 "⛔️ **Butuh Bantuan?**\n"
                 "💌 [Lapor ke Admin](https://t.me/BangsaBacol_Bot?start=lapor) | "
-                "📜 [Daftar Bantuan](https://t.me/BangsaBacol/8)"
+                "📜 [Daftar Bantuan](https://t.me/BangsaBacolViral/43)"
             )
         else:  # VIP Paid
             caption = (
@@ -3864,7 +3862,7 @@ async def cb_collectvip_confirm(client, cq):
                 "━━━━━━━━━━━━━━\n"
                 "⛔️ **Butuh Bantuan?**\n"
                 "💌 [Lapor ke Admin](https://t.me/BangsaBacol_Bot?start=lapor) | "
-                "📜 [Daftar Bantuan](https://t.me/BangsaBacol/8)"
+                "📜 [Daftar Bantuan](https://t.me/BangsaBacolViral/43)"
             )
 
         try:
@@ -4395,7 +4393,7 @@ async def cmd_setvip(client, message: Message):
 
     # update ke Starlord
     user["badge"] = BADGE_STARLORD
-    user["xp"] = 9999
+    user["xp"] = 9999999999
     if bonus_key > 0:
         user["key"] = int(user.get("key", 0)) + bonus_key
     data[str(user_id)] = user
@@ -4405,7 +4403,7 @@ async def cmd_setvip(client, message: Message):
     await message.reply(
         f"✅ @{username} berhasil jadi VIP!\n"
         f"🔖 Badge: {BADGE_STARLORD}\n"
-        f"⚡ XP: 9999\n"
+        f"⚡ XP: 9999999999\n"
         f"🔑 Key: {user.get('key', 0)}",
         parse_mode=ParseMode.HTML
     )
@@ -4421,7 +4419,7 @@ async def cmd_setvip(client, message: Message):
             "┏━━━━━━━━━━━━━━━━━━━━━━\n"
             f"┃  <b>{BADGE_STARLORD}</b>\n"
             "┗━━━━━━━━━━━━━━━━━━━━━━\n"
-            f"⚡ XP: <b>9999</b>\n"
+            f"⚡ XP: <b>9999999999</b>\n"
             f"🔑 Bonus Key: <b>{user.get('key', 0)}</b>\n"
             "✨ Nikmati semua fitur spesial, koleksi premium, dan akses eksklusif yang hanya tersedia untuk VIP!\n\n"
             "🙏 Terima kasih sudah mendukung komunitas <b>Bangsa Bacol</b>!"
@@ -4826,7 +4824,7 @@ Sedangkan <b>Admin & Menteri</b> aktif di Channel VIP.
 
 📌 <b>Info Cepat:</b>  
 - 📩 Lapor → <a href='https://t.me/BangsaBacol_Bot?start=lapor'>Admin-Pusat</a>
-- 📜 Bantuan → <a href='https://t.me/BangsaBacol/8'>Daftar Bantuan</a>
+- 📜 Bantuan → <a href='https://t.me/BangsaBacolViral/43'>Daftar Bantuan</a>
 - 🔑 Join VIP → <a href="https://trakteer.id/BangsaBacolers/showcase">Klik di sini</a>  
 
 📢 Channel: <a href="https://t.me/BangsaBacol">@BangsaBacol</a>  
@@ -6860,7 +6858,7 @@ async def handle_topup_confirm_cancel(client: Client, cq: CallbackQuery):
                     "</pre>\n"
                     "<b>Bantuan dan Dukungan:</b>\n"
                     "💌 <a href='https://t.me/BangsaBacol_Bot?start=lapor'>Lapor ke Admin</a> | "
-                    "📜 <a href='https://t.me/BangsaBacol/8'>Daftar Bantuan</a>\n"
+                    "📜 <a href='https://t.me/BangsaBacolViral/43'>Daftar Bantuan</a>\n"
                     "💦 Terima kasih sudah menggunakan layanan kami!"
                 ),
                 parse_mode=ParseMode.HTML, disable_web_page_preview=True
@@ -8190,7 +8188,7 @@ async def unknown_or_fallback(client, message: Message):
 🤖 <b>Hmmm...</b> aku nggak paham maksudmu wahai manusia.
 
 Jika butuh bantuan coba cek ini:
-📜 Daftar Bantuan → <a href="https://t.me/BangsaBacol/8">Klik di sini</a>  
+📜 Daftar Bantuan → <a href="https://t.me/BangsaBacolViral/43">Klik di sini</a>  
 📩 Lapor ke Admin-Pusat → <a href="https://t.me/BangsaBacol_Bot?start=lapor">Klik di sini</a>   
 """
     await message.reply_text(
