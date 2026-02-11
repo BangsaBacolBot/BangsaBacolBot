@@ -1,29 +1,29 @@
 {
   "7112438057": {
     "username": "QueenCwans",
-    "xp": 151,
+    "xp": 143,
     "badge": "Shimmer 🥉",
     "last_xp_dates": {
-      "ping": "2026-02-06",
-      "start": "2026-02-06",
+      "ping": "2025-09-08",
+      "start": "2026-02-05",
       "random": "2025-09-08",
-      "joinvip": "2026-02-07",
+      "joinvip": "2025-09-15",
       "lapor": "2025-08-28",
       "about": "2025-09-08",
       "profile": "2026-02-05",
       "list": "2025-08-31",
       "bot": "2025-10-26",
       "panduan": "2025-09-16",
-      "request": "2026-02-06",
-      "listvip": "2026-02-08",
-      "qris": "2026-02-07",
+      "request": "2025-08-25",
+      "listvip": "2026-02-06",
+      "qris": "2025-09-15",
       "free": "2025-09-08",
       "freekey": "2025-09-10",
       "myvip": "2026-02-05",
       "search": "2025-10-15",
       "claimbio": "2025-09-18"
     },
-    "last_seen": "2026-02-08T23:52:41.423244+07:00",
+    "last_seen": "2026-02-06T03:34:32.765378+07:00",
     "key": 16,
     "saldo_key": 2,
     "last_weekly_claim": 1757065979,
@@ -52,9 +52,9 @@
   },
   "7400680610": {
     "username": "MrAndalan",
-    "xp": 87,
+    "xp": 85,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-06T04:42:09.826194+07:00",
+    "last_seen": "2026-02-05T19:45:05.562743+07:00",
     "last_xp_dates": {
       "profile": "2025-09-30",
       "list": "2025-08-31",
@@ -62,9 +62,9 @@
       "bot": "2025-09-09",
       "ping": "2025-09-09",
       "panduan": "2025-09-09",
-      "joinvip": "2026-02-06",
+      "joinvip": "2025-09-11",
       "about": "2025-09-09",
-      "qris": "2026-02-06",
+      "qris": "2025-09-09",
       "free": "2025-09-09",
       "freekey": "2025-09-22",
       "start": "2025-09-26",
@@ -110,9 +110,9 @@
   },
   "7840297414": {
     "username": "LoliCwans",
-    "xp": 354,
+    "xp": 350,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-11T23:46:45.748749+07:00",
+    "last_seen": "2026-02-06T03:11:33.733409+07:00",
     "last_xp_dates": {
       "profile": "2026-02-05",
       "request": "2025-09-16",
@@ -120,14 +120,14 @@
       "random": "2025-09-14",
       "ping": "2025-09-28",
       "qris": "2025-09-30",
-      "panduan": "2026-02-06",
+      "panduan": "2025-09-21",
       "bot": "2025-09-18",
       "about": "2025-09-17",
       "free": "2025-09-16",
-      "freekey": "2026-02-08",
+      "freekey": "2025-09-26",
       "joinvip": "2025-10-03",
       "start": "2025-10-17",
-      "listvip": "2026-02-11",
+      "listvip": "2026-02-06",
       "myvip": "2025-09-30",
       "claim": "2025-09-11",
       "search": "2026-02-06",
@@ -233,13 +233,13 @@
     }
   },
   "6895628073": {
-    "username": "polisituru21",
-    "xp": 3,
+    "username": "polisituru22",
+    "xp": 2,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T22:10:01.230495+07:00",
+    "last_seen": "2025-09-17T15:07:47.693710+07:00",
     "last_xp_dates": {
       "profile": "2025-08-27",
-      "start": "2026-02-09"
+      "start": "2025-09-17"
     }
   },
   "5847489688": {
@@ -2430,8 +2430,8 @@
       "qris": "2025-10-06",
       "freekey": "2025-10-13",
       "start": "2025-10-08",
-      "listvip": "2026-02-09",
-      "claim": "2026-02-09",
+      "listvip": "2026-02-06",
+      "claim": "2026-02-06",
       "ping": "2025-10-08",
       "bot": "2025-10-08",
       "random": "2025-10-27",
@@ -2442,7 +2442,7 @@
       "about": "2025-10-08",
       "panduan": "2025-10-08",
       "lapor": "2025-10-08",
-      "claimbio": "2026-02-09",
+      "claimbio": "2025-10-08",
       "unlock_nixiekayla": "2025-09-23",
       "unlock_sskyella": "2025-09-23",
       "unlock_cupel": "2025-09-23",
@@ -2457,8 +2457,8 @@
       "unlock_filibrut": "2025-10-22",
       "unlock_vitamantan": "2026-02-06"
     },
-    "xp": 242,
-    "last_seen": "2026-02-09T02:02:37.975736+07:00",
+    "xp": 239,
+    "last_seen": "2026-02-06T02:21:37.514719+07:00",
     "badge": "Stellar 🥈",
     "vip_unlocked": [
       "cindysmk",
@@ -2822,21 +2822,15 @@
     "last_weekly_claim": 1756689278
   },
   "7611470764": {
-    "last_weekly_claim": 1770737482,
+    "last_weekly_claim": 1756689646,
     "username": "BataoBatu",
     "last_xp_dates": {
-      "free": "2025-09-01",
-      "claim": "2026-02-10",
-      "listvip": "2026-02-10",
-      "unlock_catheash": "2026-02-10"
+      "free": "2025-09-01"
     },
-    "xp": 4,
-    "last_seen": "2026-02-10T22:34:59.322659+07:00",
+    "xp": 1,
+    "last_seen": "2025-09-01T08:20:59.276313+07:00",
     "badge": "Stranger 🔰",
-    "key": 0,
-    "vip_unlocked": [
-      "catheash"
-    ]
+    "key": 1
   },
   "7533038553": {
     "username": "ASEPPPPPPPPPPP",
@@ -2930,29 +2924,29 @@
   },
   "5789989419": {
     "username": "numberuserbatch346",
-    "xp": 43,
+    "xp": 41,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T02:50:19.677442+07:00",
+    "last_seen": "2025-10-25T12:45:15.424841+07:00",
     "last_xp_dates": {
       "free": "2025-10-11",
       "profile": "2025-10-11",
       "random": "2025-09-01",
       "freekey": "2025-10-21",
-      "claim": "2026-02-07",
+      "claim": "2025-10-24",
       "start": "2025-10-11",
       "qris": "2025-10-02",
       "listvip": "2025-10-02",
-      "claimbio": "2026-02-07"
+      "claimbio": "2025-10-25"
     },
-    "last_weekly_claim": 1770407420,
-    "key": 20,
+    "last_weekly_claim": 1761277151,
+    "key": 17,
     "vip_unlocked": [
       "jairenenmich",
       "jarripinay"
     ],
     "supporter": true,
     "supporter_since": 1759917653,
-    "last_daily_bio_claim": 1770407415
+    "last_daily_bio_claim": 1761371116
   },
   "8211194812": {
     "username": "-",
@@ -4516,36 +4510,36 @@
   },
   "8372390824": {
     "username": "ayud00",
-    "xp": 294,
+    "xp": 278,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-09T08:06:38.045268+07:00",
+    "last_seen": "2025-10-25T15:20:55.396987+07:00",
     "last_xp_dates": {
-      "panduan": "2026-02-09",
-      "claim": "2026-02-09",
-      "start": "2026-02-09",
-      "freekey": "2026-02-09",
-      "joinvip": "2026-02-09",
-      "profile": "2026-02-09",
-      "myvip": "2026-02-09",
+      "panduan": "2025-10-25",
+      "claim": "2025-10-25",
+      "start": "2025-10-25",
+      "freekey": "2025-10-25",
+      "joinvip": "2025-10-25",
+      "profile": "2025-10-25",
+      "myvip": "2025-10-25",
       "random": "2025-10-25",
       "free": "2025-10-25",
-      "request": "2026-02-09",
-      "ping": "2026-02-09",
-      "lapor": "2026-02-09",
-      "about": "2026-02-09",
-      "bot": "2026-02-09",
-      "listvip": "2026-02-09",
-      "qris": "2026-02-09",
-      "claimbio": "2026-02-09",
-      "search": "2026-02-09",
+      "request": "2025-10-25",
+      "ping": "2025-10-25",
+      "lapor": "2025-10-25",
+      "about": "2025-10-25",
+      "bot": "2025-10-25",
+      "listvip": "2025-10-25",
+      "qris": "2025-10-25",
+      "claimbio": "2025-10-25",
+      "search": "2025-10-25",
       "unlock_tocilcantik": "2025-09-22",
       "unlock_itsveka": "2025-10-04",
       "unlock_lynini": "2025-10-15",
       "unlock_manda": "2025-10-15",
       "unlock_marianhot": "2025-10-20"
     },
-    "key": 5,
-    "last_weekly_claim": 1770599180,
+    "key": 2,
+    "last_weekly_claim": 1760927834,
     "vip_unlocked": [
       "hyynmii",
       "natashamulus",
@@ -4575,7 +4569,7 @@
       "ts": "2025-10-12T06:14:14.102406+07:00"
     },
     "pending_badge_reward": false,
-    "last_daily_bio_claim": 1770599178
+    "last_daily_bio_claim": 1761380433
   },
   "5061257950": {
     "username": "Ads13243",
@@ -5311,37 +5305,36 @@
     }
   },
   "1474599451": {
-    "key": 0,
-    "last_weekly_claim": 1770660614,
+    "key": 2,
+    "last_weekly_claim": 1760729471,
     "username": "vtrwj",
     "last_xp_dates": {
       "free": "2025-10-18",
-      "qris": "2026-02-10",
+      "qris": "2025-09-30",
       "panduan": "2025-09-29",
-      "freekey": "2026-02-10",
+      "freekey": "2025-10-18",
       "random": "2025-10-11",
       "bot": "2025-09-29",
       "joinvip": "2025-09-30",
       "profile": "2025-10-18",
       "ping": "2025-09-29",
       "about": "2025-09-29",
-      "start": "2026-02-10",
-      "claim": "2026-02-10",
+      "start": "2025-10-18",
+      "claim": "2025-10-18",
       "claimbio": "2025-10-08",
       "myvip": "2025-10-11",
-      "listvip": "2026-02-10",
-      "search": "2026-02-10",
+      "listvip": "2025-10-18",
+      "search": "2025-10-08",
       "lapor": "2025-09-30",
       "request": "2025-09-29",
       "unlock_hyynmii": "2025-09-24",
       "unlock_arachel": "2025-09-24",
       "unlock_amaliamutya": "2025-09-30",
       "unlock_mvchelle": "2025-10-08",
-      "unlock_sillyhoeyan": "2025-10-11",
-      "unlock_dalia": "2026-02-10"
+      "unlock_sillyhoeyan": "2025-10-11"
     },
-    "xp": 232,
-    "last_seen": "2026-02-10T01:14:39.059086+07:00",
+    "xp": 225,
+    "last_seen": "2025-10-18T02:32:03.554706+07:00",
     "badge": "Stellar 🥈",
     "supporter": false,
     "supporter_since": 0,
@@ -5421,15 +5414,7 @@
       "mvchelle",
       "sillyhoeyan",
       "deksilvi",
-      "auliarr",
-      "alimpap",
-      "jessicagavriella",
-      "gemoybening",
-      "lausearjaya",
-      "cessi",
-      "yobella",
-      "spillbody",
-      "dalia"
+      "auliarr"
     ],
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
@@ -5448,29 +5433,26 @@
   },
   "7198677923": {
     "username": "eluuuu4444",
-    "xp": 22,
+    "xp": 15,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T19:49:41.868873+07:00",
+    "last_seen": "2025-09-18T00:49:04.123453+07:00",
     "last_xp_dates": {
       "free": "2025-09-11",
-      "profile": "2026-02-10",
-      "listvip": "2026-02-10",
+      "profile": "2025-09-11",
+      "listvip": "2025-09-18",
       "freekey": "2025-09-18",
-      "panduan": "2026-02-10",
+      "panduan": "2025-09-11",
       "start": "2025-09-18",
-      "myvip": "2026-02-09",
+      "myvip": "2025-09-11",
       "claim": "2025-09-18",
-      "random": "2025-09-18",
-      "lapor": "2026-02-09"
+      "random": "2025-09-18"
     },
-    "key": 4,
-    "last_weekly_claim": 1770572259,
+    "key": 2,
+    "last_weekly_claim": 1758131242,
     "vip_unlocked": [
       "silviani",
       "arranirysavaa"
-    ],
-    "supporter_since": 1770570727,
-    "supporter": true
+    ]
   },
   "6488846486": {
     "username": "-",
@@ -5507,12 +5489,12 @@
   },
   "7151290312": {
     "username": "chocodottt",
-    "xp": 7,
+    "xp": 6,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T09:59:21.158025+07:00",
+    "last_seen": "2025-10-06T10:48:35.210066+07:00",
     "last_xp_dates": {
       "panduan": "2025-09-16",
-      "listvip": "2026-02-09",
+      "listvip": "2025-10-06",
       "start": "2025-10-06"
     }
   },
@@ -5808,7 +5790,7 @@
   },
   "7724046934": {
     "username": "hohoho_90",
-    "xp": 256,
+    "xp": 254,
     "badge": "Stellar 🥈",
     "last_xp_dates": {
       "profile": "2025-10-26",
@@ -5819,9 +5801,9 @@
       "bot": "2025-10-05",
       "qris": "2025-10-05",
       "start": "2025-10-26",
-      "claim": "2026-02-06",
+      "claim": "2025-10-26",
       "listvip": "2025-10-26",
-      "claimbio": "2026-02-06",
+      "claimbio": "2025-10-25",
       "myvip": "2025-10-05",
       "unlock_hijabbrut": "2025-09-21",
       "unlock_fathiahijab": "2025-09-21",
@@ -5839,7 +5821,7 @@
       "unlock_evanurhijab": "2025-10-13",
       "unlock_safirajogja": "2025-10-26"
     },
-    "key": 23,
+    "key": 20,
     "vip_unlocked": [
       "aila",
       "monicanyssa",
@@ -5859,15 +5841,15 @@
       "evanurhijab",
       "safirajogja"
     ],
-    "last_seen": "2026-02-06T19:08:47.077174+07:00",
-    "last_weekly_claim": 1770379727,
+    "last_seen": "2025-10-26T06:38:15.627996+07:00",
+    "last_weekly_claim": 1761435425,
     "last_xp_notified": {
       "profile": true,
       "freekey": true
     },
     "supporter": true,
     "supporter_since": 1758262788,
-    "last_daily_bio_claim": 1770379723,
+    "last_daily_bio_claim": 1761402976,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
@@ -7109,9 +7091,9 @@
   },
   "8290667686": {
     "username": "BangsaBacolBot",
-    "xp": 1024,
+    "xp": 1021,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-09T01:25:58.929213+07:00",
+    "last_seen": "2026-02-05T20:24:23.110063+07:00",
     "last_xp_dates": {
       "profile": "2025-09-07",
       "unlock_ayubinor": "2025-10-07",
@@ -7128,8 +7110,8 @@
       "unlock_ukhtikalem": "2025-10-02",
       "unlock_hijabsejoli": "2025-09-18",
       "unlock_juliaberliana": "2025-09-11",
-      "unlock_j4vstepm0m": "2026-02-08",
-      "unlock_j4vkangsampah": "2026-02-09",
+      "unlock_j4vstepm0m": "2025-10-24",
+      "unlock_j4vkangsampah": "2025-10-25",
       "unlock_stephanie": "2025-10-22",
       "unlock_abgsmkk": "2025-10-18",
       "unlock_mantanrexona": "2025-10-22",
@@ -7240,7 +7222,7 @@
       "unlock_dindasuperindo": "2025-10-24",
       "unlock_saviragunawan": "2025-10-10",
       "unlock_catherineh": "2025-10-02",
-      "unlock_amaliastars": "2026-02-08",
+      "unlock_amaliastars": "2025-10-20",
       "unlock_shintaa": "2025-09-18",
       "unlock_hijabbinal": "2025-09-23",
       "unlock_evajayaputri": "2025-09-29",
@@ -7670,20 +7652,20 @@
   },
   "8281023522": {
     "username": "hassnlopangg",
-    "xp": 51,
+    "xp": 45,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-06T19:37:02.077022+07:00",
+    "last_seen": "2025-10-26T15:44:26.772368+07:00",
     "last_xp_dates": {
-      "freekey": "2026-02-06",
+      "freekey": "2025-09-28",
       "free": "2025-09-14",
-      "profile": "2026-02-06",
+      "profile": "2025-10-12",
       "joinvip": "2025-09-14",
       "qris": "2025-10-18",
-      "claim": "2026-02-06",
+      "claim": "2025-10-26",
       "random": "2025-09-14",
-      "myvip": "2026-02-06",
-      "start": "2026-02-06",
-      "search": "2026-02-06",
+      "myvip": "2025-09-14",
+      "start": "2025-10-18",
+      "search": "2025-09-14",
       "listvip": "2025-10-18",
       "about": "2025-09-14",
       "request": "2025-09-14",
@@ -7691,8 +7673,8 @@
       "unlock_itsveka": "2025-09-28",
       "unlock_chessyfebyana": "2025-10-18"
     },
-    "key": 4,
-    "last_weekly_claim": 1770379162,
+    "key": 2,
+    "last_weekly_claim": 1761468267,
     "vip_unlocked": [
       "cristinevlnt",
       "itsveka",
@@ -8651,57 +8633,45 @@
   },
   "1646432422": {
     "username": "arzsax",
-    "xp": 102,
-    "badge": "Shimmer 🥉",
+    "xp": 80,
+    "badge": "Stranger 🔰",
     "last_xp_dates": {
-      "listvip": "2026-02-09",
-      "start": "2026-02-09",
+      "listvip": "2025-10-26",
+      "start": "2025-10-26",
       "unlock_laelbigmo": "2025-10-06",
-      "claim": "2026-02-09",
+      "claim": "2025-10-26",
       "unlock_allen": "2025-10-06",
-      "freekey": "2026-02-06",
-      "profile": "2026-02-09",
+      "freekey": "2025-10-26",
+      "profile": "2025-10-26",
       "unlock_syahrhmh": "2025-10-06",
-      "myvip": "2026-02-09",
+      "myvip": "2025-10-19",
       "random": "2025-10-26",
       "free": "2025-10-26",
-      "claimbio": "2026-02-09",
+      "claimbio": "2025-10-26",
       "qris": "2025-10-26",
       "unlock_najwaaulia": "2025-10-14",
-      "joinvip": "2026-02-06",
-      "search": "2026-02-06",
-      "panduan": "2026-02-06",
-      "request": "2026-02-06",
-      "ping": "2026-02-06",
+      "joinvip": "2025-10-26",
+      "search": "2025-10-26",
+      "panduan": "2025-10-26",
+      "request": "2025-10-26",
+      "ping": "2025-10-26",
       "lapor": "2025-10-26",
       "unlock_almaragbang": "2025-10-26",
-      "bot": "2026-02-06",
-      "about": "2026-02-06",
-      "unlock_tatumsakilla": "2026-02-06",
-      "unlock_azorapramantya": "2026-02-06"
+      "bot": "2025-10-26",
+      "about": "2025-10-26"
     },
-    "key": 3,
-    "last_seen": "2026-02-09T22:24:14.984623+07:00",
+    "key": 0,
+    "last_seen": "2025-10-26T17:25:11.243367+07:00",
     "vip_unlocked": [
       "laelbigmo",
       "allen",
       "syahrhmh",
       "najwaaulia",
-      "almaragbang",
-      "tatumsakilla",
-      "azorapramantya",
-      "lausearjaya"
+      "almaragbang"
     ],
-    "last_weekly_claim": 1770387158,
-    "supporter": true,
-    "supporter_since": 1770387152,
-    "last_badge_reward": {
-      "to_badge": "Shimmer 🥉",
-      "reward": 2,
-      "ts": "2026-02-09T22:23:56.763008+07:00"
-    },
-    "pending_badge_reward": false,
-    "last_daily_bio_claim": 1770650655
+    "last_weekly_claim": 1761470313,
+    "supporter": false,
+    "supporter_since": 0
   },
   "6363738787": {
     "username": null,
@@ -10084,18 +10054,18 @@
     }
   },
   "1850368410": {
-    "username": "ridhard12",
-    "xp": 39,
+    "username": "ridhard7",
+    "xp": 37,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T16:35:33.196112+07:00",
+    "last_seen": "2025-10-26T15:46:03.654631+07:00",
     "last_xp_dates": {
       "start": "2025-09-09",
-      "listvip": "2026-02-08",
+      "listvip": "2025-10-11",
       "panduan": "2025-09-09",
       "profile": "2025-09-09",
       "random": "2025-10-01",
       "freekey": "2025-10-01",
-      "claim": "2026-02-08",
+      "claim": "2025-10-26",
       "claimbio": "2025-10-01",
       "myvip": "2025-10-09",
       "unlock_chelsea": "2025-09-25",
@@ -10103,8 +10073,8 @@
       "free": "2025-10-01",
       "unlock_jessie1309": "2025-10-11"
     },
-    "key": 5,
-    "last_weekly_claim": 1770543329,
+    "key": 3,
+    "last_weekly_claim": 1760937588,
     "vip_unlocked": [
       "elvinahalim",
       "chelsea",
@@ -10948,14 +10918,14 @@
     ]
   },
   "7462197895": {
-    "username": "Spfonly",
-    "xp": 225,
+    "username": "Ikysky69",
+    "xp": 219,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-10T12:31:36.242277+07:00",
+    "last_seen": "2025-10-17T19:58:08.881657+07:00",
     "last_xp_dates": {
       "start": "2025-10-01",
       "listvip": "2025-10-17",
-      "claim": "2026-02-10",
+      "claim": "2025-10-17",
       "free": "2025-10-01",
       "profile": "2025-10-13",
       "freekey": "2025-10-02",
@@ -10964,7 +10934,7 @@
       "random": "2025-10-01",
       "panduan": "2025-10-01",
       "joinvip": "2025-10-01",
-      "claimbio": "2026-02-10",
+      "claimbio": "2025-10-15",
       "search": "2025-10-01",
       "request": "2025-10-01",
       "lapor": "2025-10-01",
@@ -10977,8 +10947,8 @@
       "unlock_arachel": "2025-09-25",
       "unlock_windagirang": "2025-10-17"
     },
-    "key": 10,
-    "last_weekly_claim": 1770520616,
+    "key": 7,
+    "last_weekly_claim": 1760316219,
     "vip_unlocked": [
       "adinda",
       "aliahijab",
@@ -11064,15 +11034,14 @@
       "auliarr",
       "windagirang"
     ],
-    "supporter": true,
-    "supporter_since": 1770520618,
+    "supporter": false,
+    "supporter_since": 0,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
       "ts": "2025-10-01T10:25:47.142336+07:00"
     },
-    "pending_badge_reward": false,
-    "last_daily_bio_claim": 1770616394
+    "pending_badge_reward": false
   },
   "1868525766": {
     "username": "-",
@@ -11194,27 +11163,27 @@
   },
   "6852283915": {
     "username": "HambaIblizzzeee",
-    "xp": 25,
+    "xp": 21,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T06:43:43.841907+07:00",
+    "last_seen": "2025-09-25T02:04:51.014100+07:00",
     "last_xp_dates": {
       "claim": "2025-09-25",
       "freekey": "2025-09-25",
-      "start": "2026-02-11",
-      "listvip": "2026-02-11",
+      "start": "2025-09-09",
+      "listvip": "2025-09-25",
       "free": "2025-09-09",
-      "profile": "2026-02-11",
+      "profile": "2025-09-09",
       "random": "2025-09-09",
       "bot": "2025-09-09",
       "joinvip": "2025-09-09",
       "qris": "2025-09-09",
       "myvip": "2025-09-09",
-      "claimbio": "2026-02-11",
+      "claimbio": "2025-09-25",
       "unlock_indomilk": "2025-09-25",
       "unlock_kayina": "2025-09-25"
     },
-    "key": 2,
-    "last_weekly_claim": 1770767003,
+    "key": 0,
+    "last_weekly_claim": 1758740038,
     "vip_unlocked": [
       "cristinevlnt",
       "indarsnr",
@@ -11411,11 +11380,11 @@
   },
   "8263987334": {
     "username": "-",
-    "xp": 2,
+    "xp": 1,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T20:51:13.838159+07:00",
+    "last_seen": "2025-09-09T20:20:33.632224+07:00",
     "last_xp_dates": {
-      "start": "2026-02-09"
+      "start": "2025-09-09"
     }
   },
   "8076234468": {
@@ -16242,24 +16211,24 @@
     }
   },
   "1151242111": {
-    "username": "Epunss",
-    "xp": 240,
+    "username": "evanssatriaputra",
+    "xp": 236,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-07T15:17:29.877638+07:00",
+    "last_seen": "2025-10-26T22:33:25.464391+07:00",
     "last_xp_dates": {
       "freekey": "2025-10-03",
       "start": "2025-09-26",
-      "claim": "2026-02-06",
+      "claim": "2025-10-26",
       "qris": "2025-09-26",
       "listvip": "2025-10-26",
       "panduan": "2025-09-27",
       "free": "2025-09-26",
-      "profile": "2026-02-07",
+      "profile": "2025-10-19",
       "myvip": "2025-09-26",
       "random": "2025-10-03",
       "request": "2025-09-26",
       "about": "2025-09-26",
-      "search": "2026-02-06",
+      "search": "2025-09-26",
       "joinvip": "2025-09-26",
       "ping": "2025-09-26",
       "lapor": "2025-10-26",
@@ -16271,11 +16240,10 @@
       "unlock_cristinevlnt": "2025-10-05",
       "unlock_stephaniedevina": "2025-10-12",
       "unlock_jessikatryn": "2025-10-19",
-      "unlock_chyle": "2025-10-26",
-      "unlock_felidchristy": "2026-02-06"
+      "unlock_chyle": "2025-10-26"
     },
     "key": 0,
-    "last_weekly_claim": 1770336747,
+    "last_weekly_claim": 1761441631,
     "vip_unlocked": [
       "elvinahalim",
       "vanessaevlin",
@@ -16321,8 +16289,7 @@
       "luvianasuheru",
       "ellele",
       "alfieradelliana",
-      "chyle",
-      "felidchristy"
+      "chyle"
     ],
     "supporter": false,
     "supporter_since": 0,
@@ -17035,29 +17002,27 @@
   },
   "6449145386": {
     "username": "anataaa1",
-    "xp": 39,
+    "xp": 34,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T14:39:06.737917+07:00",
+    "last_seen": "2026-02-05T18:02:46.380101+07:00",
     "last_xp_dates": {
-      "start": "2026-02-09",
+      "start": "2025-09-21",
       "claim": "2026-02-05",
       "claimbio": "2025-10-01",
       "joinvip": "2025-09-21",
       "profile": "2025-09-21",
       "freekey": "2025-09-21",
-      "myvip": "2026-02-09",
+      "myvip": "2025-10-13",
       "free": "2025-09-21",
       "search": "2025-09-21",
-      "listvip": "2026-02-09",
+      "listvip": "2025-10-13",
       "panduan": "2025-09-21",
       "unlock_jairenenmich": "2025-09-22",
       "unlock_tocilcantik": "2025-09-22",
       "unlock_vicera": "2025-10-03",
-      "unlock_alesa": "2025-10-13",
-      "unlock_naurandhf": "2026-02-09",
-      "unlock_chelsyaadila": "2026-02-09"
+      "unlock_alesa": "2025-10-13"
     },
-    "key": 0,
+    "key": 2,
     "last_weekly_claim": 1770289366,
     "vip_unlocked": [
       "arachel",
@@ -17065,9 +17030,7 @@
       "jairenenmich",
       "tocilcantik",
       "vicera",
-      "alesa",
-      "naurandhf",
-      "chelsyaadila"
+      "alesa"
     ],
     "supporter": false,
     "supporter_since": 0
@@ -19253,15 +19216,15 @@
   },
   "6288507285": {
     "username": "SuryaKretek09",
-    "xp": 35,
+    "xp": 30,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T02:30:58.561162+07:00",
+    "last_seen": "2025-10-08T21:18:08.406198+07:00",
     "last_xp_dates": {
       "start": "2025-10-08",
-      "claim": "2026-02-08",
-      "freekey": "2026-02-08",
-      "profile": "2026-02-08",
-      "listvip": "2026-02-08",
+      "claim": "2025-10-08",
+      "freekey": "2025-10-08",
+      "profile": "2025-10-08",
+      "listvip": "2025-10-08",
       "panduan": "2025-09-17",
       "free": "2025-10-08",
       "random": "2025-10-08",
@@ -19271,12 +19234,12 @@
       "lapor": "2025-10-08",
       "bot": "2025-10-08",
       "ping": "2025-10-08",
-      "claimbio": "2026-02-08",
+      "claimbio": "2025-10-08",
       "myvip": "2025-10-08",
       "unlock_novianatanuwijaya": "2025-10-08"
     },
-    "key": 2,
-    "last_weekly_claim": 1770492649,
+    "key": 0,
+    "last_weekly_claim": 1759932437,
     "vip_unlocked": [
       "juwita",
       "novianatanuwijaya"
@@ -20877,37 +20840,27 @@
     "key": 1
   },
   "1963531913": {
-    "username": "Ciloqciliq026",
-    "xp": 10005,
-    "badge": "Stellar 🥈",
-    "last_seen": "2026-02-09T12:21:38.606510+07:00",
+    "username": "Denny_Tcp",
+    "xp": 10003,
+    "badge": "Starlord 🥇",
+    "last_seen": "2025-10-22T16:13:46.399965+07:00",
     "last_xp_dates": {
       "start": "2025-09-17",
       "listvip": "2025-10-22",
       "freekey": "2025-09-17",
       "panduan": "2025-10-22",
       "joinvip": "2025-10-22",
-      "search": "2026-02-09",
+      "search": "2025-09-18",
       "lapor": "2025-10-22",
       "profile": "2025-10-22",
-      "myvip": "2025-10-22",
-      "unlock_nayashayaya": "2026-02-09"
+      "myvip": "2025-10-22"
     },
     "key": 13,
     "prev_badge": "Stranger 🔰",
     "prev_xp": 7,
     "supporter": false,
     "supporter_since": 0,
-    "last_weekly_claim": 1761124269,
-    "last_badge_reward": {
-      "to_badge": "Stellar 🥈",
-      "reward": 4,
-      "ts": "2026-02-09T12:21:22.257823+07:00"
-    },
-    "pending_badge_reward": false,
-    "vip_unlocked": [
-      "nayashayaya"
-    ]
+    "last_weekly_claim": 1761124269
   },
   "6336025095": {
     "username": "-",
@@ -20956,14 +20909,14 @@
   },
   "1381968470": {
     "username": "Aszxdcw",
-    "xp": 224,
+    "xp": 221,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-09T00:39:43.755723+07:00",
+    "last_seen": "2026-02-06T00:05:29.754555+07:00",
     "last_xp_dates": {
       "start": "2025-10-20",
       "listvip": "2026-02-05",
       "freekey": "2025-10-20",
-      "claim": "2026-02-09",
+      "claim": "2026-02-05",
       "qris": "2025-10-20",
       "profile": "2025-10-24",
       "random": "2025-10-20",
@@ -20973,7 +20926,7 @@
       "ping": "2025-10-20",
       "joinvip": "2025-10-20",
       "panduan": "2025-10-20",
-      "claimbio": "2026-02-09",
+      "claimbio": "2026-02-05",
       "bot": "2025-10-20",
       "lapor": "2025-10-20",
       "request": "2025-10-20",
@@ -20992,10 +20945,9 @@
       "unlock_aila": "2025-10-19",
       "unlock_heavenraiselle": "2025-10-20",
       "unlock_taniacans": "2025-10-21",
-      "unlock_saviragunawan": "2025-10-24",
-      "unlock_jove": "2026-02-06"
+      "unlock_saviragunawan": "2025-10-24"
     },
-    "key": 1,
+    "key": 5,
     "last_weekly_claim": 1770310286,
     "vip_unlocked": [
       "aeva",
@@ -21013,12 +20965,11 @@
       "aila",
       "heavenraiselle",
       "taniacans",
-      "saviragunawan",
-      "jove"
+      "saviragunawan"
     ],
     "supporter_since": 1758303383,
     "supporter": true,
-    "last_daily_bio_claim": 1770572384,
+    "last_daily_bio_claim": 1770310290,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
@@ -21049,14 +21000,14 @@
   },
   "6173825142": {
     "username": "prksaaxx",
-    "xp": 290,
+    "xp": 287,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-11T09:29:10.263229+07:00",
+    "last_seen": "2026-02-06T00:00:57.707122+07:00",
     "last_xp_dates": {
       "start": "2025-10-24",
-      "claim": "2026-02-11",
+      "claim": "2026-02-05",
       "listvip": "2026-02-05",
-      "claimbio": "2026-02-11",
+      "claimbio": "2026-02-05",
       "free": "2025-09-29",
       "profile": "2025-10-24",
       "random": "2025-09-29",
@@ -21094,7 +21045,7 @@
       "unlock_vitamantan": "2026-02-05",
       "unlock_jayinof": "2026-02-06"
     },
-    "key": 1,
+    "key": 0,
     "last_weekly_claim": 1770310254,
     "vip_unlocked": [
       "arachel",
@@ -21195,7 +21146,7 @@
     ],
     "supporter": true,
     "supporter_since": 1758276035,
-    "last_daily_bio_claim": 1770572401,
+    "last_daily_bio_claim": 1770310258,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
@@ -22073,36 +22024,36 @@
   },
   "5713642920": {
     "username": "panteqonto",
-    "xp": 207,
-    "badge": "Stellar 🥈",
-    "last_seen": "2026-02-11T23:31:35.854164+07:00",
+    "xp": 162,
+    "badge": "Shimmer 🥉",
+    "last_seen": "2025-10-24T18:03:51.344290+07:00",
     "last_xp_dates": {
-      "start": "2026-02-08",
-      "listvip": "2026-02-11",
-      "qris": "2026-02-08",
-      "myvip": "2026-02-11",
-      "claimbio": "2026-02-08",
+      "start": "2025-10-07",
+      "listvip": "2025-10-24",
+      "qris": "2025-09-29",
+      "myvip": "2025-10-18",
+      "claimbio": "2025-10-24",
       "free": "2025-10-12",
-      "joinvip": "2026-02-08",
-      "random": "2026-02-08",
+      "joinvip": "2025-09-29",
+      "random": "2025-10-07",
       "unlock_garnierjoy": "2025-09-21",
-      "profile": "2026-02-11",
+      "profile": "2025-10-13",
       "unlock_almaragbang": "2025-09-21",
-      "freekey": "2026-02-08",
-      "search": "2026-02-11",
+      "freekey": "2025-10-18",
+      "search": "2025-09-29",
       "unlock_flomoroll": "2025-09-22",
       "unlock_ladytaswin": "2025-09-22",
       "unlock_kayina": "2025-09-23",
       "unlock_danica": "2025-09-23",
       "unlock_cewetomboy": "2025-09-23",
       "unlock_maggie": "2025-09-23",
-      "claim": "2026-02-08",
-      "panduan": "2026-02-08",
-      "request": "2026-02-08",
-      "lapor": "2026-02-11",
-      "ping": "2026-02-08",
-      "bot": "2026-02-08",
-      "about": "2026-02-08",
+      "claim": "2025-10-20",
+      "panduan": "2025-09-29",
+      "request": "2025-09-29",
+      "lapor": "2025-09-29",
+      "ping": "2025-09-29",
+      "bot": "2025-09-29",
+      "about": "2025-09-29",
       "unlock_firakasim": "2025-09-25",
       "unlock_chelsea": "2025-09-27",
       "unlock_hijabtalent": "2025-09-29",
@@ -22117,18 +22068,11 @@
       "unlock_anabandung": "2025-10-18",
       "unlock_uphmirror": "2025-10-20",
       "unlock_alimmontok": "2025-10-21",
-      "unlock_filibrut": "2025-10-24",
-      "unlock_marsharkkk": "2026-02-08",
-      "unlock_narika": "2026-02-11",
-      "unlock_dedeshifa": "2026-02-11",
-      "unlock_mantanistri": "2026-02-11",
-      "unlock_dillahcans": "2026-02-11",
-      "unlock_laiza": "2026-02-11",
-      "unlock_babygirl": "2026-02-11"
+      "unlock_filibrut": "2025-10-24"
     },
     "supporter": true,
     "supporter_since": 1758549027,
-    "key": 10,
+    "key": 0,
     "vip_unlocked": [
       "garnierjoy",
       "almaragbang",
@@ -22172,27 +22116,14 @@
       "anabandung",
       "uphmirror",
       "alimmontok",
-      "filibrut",
-      "marsharkkk",
-      "alimpap",
-      "j4vwkangpipa",
-      "jessicagavriella",
-      "cessi",
-      "gemoybening",
-      "narika",
-      "yobella",
-      "dedeshifa",
-      "mantanistri",
-      "dillahcans",
-      "laiza",
-      "babygirl"
+      "filibrut"
     ],
-    "last_weekly_claim": 1770441927,
-    "last_daily_bio_claim": 1770441931,
+    "last_weekly_claim": 1760498037,
+    "last_daily_bio_claim": 1761303811,
     "last_badge_reward": {
-      "to_badge": "Stellar 🥈",
-      "reward": 4,
-      "ts": "2026-02-11T23:19:39.853271+07:00"
+      "to_badge": "Shimmer 🥉",
+      "reward": 2,
+      "ts": "2025-09-29T10:36:04.616353+07:00"
     },
     "pending_badge_reward": false
   },
@@ -22782,16 +22713,16 @@
   },
   "771479525": {
     "username": "Miertaaa",
-    "xp": 83,
+    "xp": 76,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T14:10:26.617658+07:00",
+    "last_seen": "2025-10-25T02:51:43.312802+07:00",
     "last_xp_dates": {
-      "start": "2026-02-11",
-      "freekey": "2026-02-11",
-      "listvip": "2026-02-11",
-      "profile": "2026-02-11",
-      "claim": "2026-02-11",
-      "panduan": "2026-02-11",
+      "start": "2025-10-15",
+      "freekey": "2025-10-01",
+      "listvip": "2025-10-25",
+      "profile": "2025-10-02",
+      "claim": "2025-10-02",
+      "panduan": "2025-09-30",
       "unlock_rowella": "2025-09-22",
       "myvip": "2025-10-25",
       "random": "2025-09-30",
@@ -22819,10 +22750,10 @@
       "unlock_annidaa": "2025-10-15",
       "unlock_rysanicol": "2025-10-25"
     },
-    "key": 3,
+    "key": 0,
     "supporter": false,
     "supporter_since": 0,
-    "last_weekly_claim": 1770664601,
+    "last_weekly_claim": 1758906340,
     "vip_unlocked": [
       "rowella",
       "chelsea",
@@ -23430,12 +23361,12 @@
   },
   "7919572221": {
     "username": "Tueueueuueue",
-    "xp": 26,
+    "xp": 25,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T19:57:27.994789+07:00",
+    "last_seen": "2025-10-26T11:28:32.727799+07:00",
     "last_xp_dates": {
       "start": "2025-09-27",
-      "claim": "2026-02-09",
+      "claim": "2025-10-26",
       "panduan": "2025-09-19",
       "search": "2025-09-27",
       "free": "2025-09-19",
@@ -23448,8 +23379,8 @@
       "unlock_jarripinay": "2025-09-27",
       "unlock_stephaniedevina": "2025-09-27"
     },
-    "key": 8,
-    "last_weekly_claim": 1770641848,
+    "key": 6,
+    "last_weekly_claim": 1761452913,
     "vip_unlocked": [
       "anikkacamaya",
       "silviaoktavia",
@@ -23904,12 +23835,12 @@
     }
   },
   "1276807831": {
-    "username": "namasaya888888888",
-    "xp": 2,
+    "username": "-",
+    "xp": 1,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T03:01:52.147176+07:00",
+    "last_seen": "2025-09-20T05:01:13.564362+07:00",
     "last_xp_dates": {
-      "start": "2026-02-08"
+      "start": "2025-09-20"
     }
   },
   "7220209779": {
@@ -24859,32 +24790,32 @@
     "supporter_since": 0
   },
   "6982247002": {
-    "username": "tyson3311",
-    "xp": 10029,
-    "badge": "Stellar 🥈",
-    "last_seen": "2026-02-09T23:10:00.355512+07:00",
+    "username": "tyson3321",
+    "xp": 10018,
+    "badge": "Starlord 🥇",
+    "last_seen": "2025-10-20T10:32:01.660137+07:00",
     "last_xp_dates": {
-      "start": "2026-02-09",
+      "start": "2025-10-10",
       "profile": "2025-10-10",
       "myvip": "2025-09-26",
       "random": "2025-10-19",
-      "freekey": "2026-02-09",
+      "freekey": "2025-09-26",
       "claimbio": "2025-09-26",
       "qris": "2025-09-26",
-      "listvip": "2026-02-09",
+      "listvip": "2025-10-20",
       "unlock_heavenraiselle": "2025-09-22",
       "free": "2025-09-26",
       "unlock_fredelainekeisha": "2025-09-22",
       "ping": "2025-09-26",
       "unlock_gemoyimut": "2025-09-22",
       "about": "2025-09-26",
-      "lapor": "2026-02-09",
-      "search": "2026-02-09",
+      "lapor": "2025-10-02",
+      "search": "2025-10-12",
       "panduan": "2025-09-26",
       "joinvip": "2025-10-10",
       "unlock_rowella": "2025-09-22",
       "unlock_andrea": "2025-09-22",
-      "request": "2026-02-09",
+      "request": "2025-09-26",
       "bot": "2025-09-26",
       "unlock_maggie": "2025-09-22",
       "claim": "2025-10-02",
@@ -24903,14 +24834,11 @@
       "unlock_nixiekayla": "2025-09-24",
       "unlock_ratnap": "2025-09-24",
       "unlock_firakasim": "2025-09-26",
-      "unlock_selvi": "2025-10-02",
-      "unlock_jilbabpondok": "2026-02-08",
-      "unlock_nayashayaya": "2026-02-09",
-      "unlock_laiza": "2026-02-09"
+      "unlock_selvi": "2025-10-02"
     },
     "supporter": false,
     "supporter_since": 0,
-    "key": 8,
+    "key": 12,
     "last_weekly_claim": 1760036717,
     "vip_unlocked": [
       "heavenraiselle",
@@ -24943,15 +24871,12 @@
       "oceans",
       "papayang",
       "cewekantor",
-      "selvi",
-      "jilbabpondok",
-      "nayashayaya",
-      "laiza"
+      "selvi"
     ],
     "last_badge_reward": {
-      "to_badge": "Stellar 🥈",
-      "reward": 4,
-      "ts": "2026-02-08T00:00:13.732517+07:00"
+      "to_badge": "Shimmer 🥉",
+      "reward": 2,
+      "ts": "2025-09-26T11:14:40.445650+07:00"
     },
     "pending_badge_reward": false,
     "prev_badge": "Shimmer 🥉",
@@ -25071,11 +24996,11 @@
   },
   "5296654216": {
     "username": "L2111838",
-    "xp": 2,
+    "xp": 1,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T08:02:34.187973+07:00",
+    "last_seen": "2025-09-22T08:07:17.579185+07:00",
     "last_xp_dates": {
-      "start": "2026-02-09"
+      "start": "2025-09-22"
     }
   },
   "7893473154": {
@@ -26079,39 +26004,25 @@
   },
   "5931167384": {
     "username": "GIBRINIII",
-    "xp": 10019,
-    "badge": "Stellar 🥈",
-    "last_seen": "2026-02-10T07:09:03.090523+07:00",
+    "xp": 10015,
+    "badge": "Starlord 🥇",
+    "last_seen": "2025-10-22T09:36:17.290535+07:00",
     "last_xp_dates": {
       "start": "2025-09-24",
-      "listvip": "2026-02-10",
+      "listvip": "2025-10-22",
       "panduan": "2025-09-24",
       "profile": "2025-10-22",
       "joinvip": "2025-10-06",
       "myvip": "2025-10-22",
       "search": "2025-10-03",
       "random": "2025-10-06",
-      "about": "2025-10-06",
-      "unlock_dillahcans": "2026-02-10",
-      "unlock_nayashayaya": "2026-02-10",
-      "unlock_cansbrut": "2026-02-10"
+      "about": "2025-10-06"
     },
     "supporter": false,
     "supporter_since": 0,
     "prev_badge": "Stranger 🔰",
     "prev_xp": 7,
-    "key": 3,
-    "last_badge_reward": {
-      "to_badge": "Stellar 🥈",
-      "reward": 4,
-      "ts": "2026-02-10T07:07:13.683629+07:00"
-    },
-    "pending_badge_reward": false,
-    "vip_unlocked": [
-      "dillahcans",
-      "nayashayaya",
-      "cansbrut"
-    ]
+    "key": 10
   },
   "6382424685": {
     "username": "Timemerighttttt",
@@ -27580,20 +27491,20 @@
   },
   "8105975574": {
     "username": "dimmzx",
-    "xp": 231,
+    "xp": 224,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-07T02:26:42.545970+07:00",
+    "last_seen": "2025-10-26T02:32:03.839248+07:00",
     "last_xp_dates": {
       "start": "2025-10-26",
-      "profile": "2026-02-07",
-      "freekey": "2026-02-07",
-      "listvip": "2026-02-07",
+      "profile": "2025-10-26",
+      "freekey": "2025-10-26",
+      "listvip": "2025-10-26",
       "unlock_tocilsma": "2025-09-28",
-      "claimbio": "2026-02-07",
-      "myvip": "2026-02-07",
+      "claimbio": "2025-10-26",
+      "myvip": "2025-10-26",
       "random": "2025-10-26",
       "joinvip": "2025-10-26",
-      "qris": "2026-02-07",
+      "qris": "2025-10-25",
       "free": "2025-10-26",
       "search": "2025-10-26",
       "panduan": "2025-10-26",
@@ -27602,7 +27513,7 @@
       "ping": "2025-10-26",
       "bot": "2025-10-26",
       "about": "2025-10-26",
-      "claim": "2026-02-07",
+      "claim": "2025-10-26",
       "unlock_siskaamelia": "2025-10-13",
       "unlock_tocilcantik": "2025-10-13",
       "unlock_racheizh": "2025-10-15",
@@ -27614,8 +27525,8 @@
     },
     "supporter": true,
     "supporter_since": 1760464327,
-    "key": 3,
-    "last_weekly_claim": 1770405965,
+    "key": 0,
+    "last_weekly_claim": 1760990064,
     "vip_unlocked": [
       "tocilsma",
       "siskaamelia",
@@ -27641,7 +27552,7 @@
       "abelcans",
       "cewemalay"
     ],
-    "last_daily_bio_claim": 1770405979,
+    "last_daily_bio_claim": 1761336306,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
@@ -29222,19 +29133,19 @@
   },
   "7548799648": {
     "username": "furrznz",
-    "xp": 39,
+    "xp": 36,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T15:38:00.494554+07:00",
+    "last_seen": "2025-10-22T21:06:28.793581+07:00",
     "last_xp_dates": {
       "start": "2025-10-10",
-      "listvip": "2026-02-10",
+      "listvip": "2025-10-22",
       "freekey": "2025-10-22",
       "myvip": "2025-10-22",
       "search": "2025-10-03",
       "free": "2025-10-22",
       "qris": "2025-10-03",
       "unlock_adinda": "2025-10-03",
-      "claim": "2026-02-10",
+      "claim": "2025-10-22",
       "unlock_aila": "2025-10-03",
       "unlock_allen": "2025-10-03",
       "profile": "2025-10-12",
@@ -29242,8 +29153,7 @@
       "unlock_anikkacamaya": "2025-10-10",
       "unlock_elldora": "2025-10-10",
       "unlock_lucyanggraeni": "2025-10-22",
-      "unlock_kianmika": "2025-10-22",
-      "unlock_cristinevlnt": "2026-02-10"
+      "unlock_kianmika": "2025-10-22"
     },
     "key": 0,
     "vip_unlocked": [
@@ -29253,10 +29163,9 @@
       "anikkacamaya",
       "elldora",
       "lucyanggraeni",
-      "kianmika",
-      "cristinevlnt"
+      "kianmika"
     ],
-    "last_weekly_claim": 1770712653,
+    "last_weekly_claim": 1761141530,
     "supporter": false,
     "supporter_since": 0
   },
@@ -29719,22 +29628,22 @@
   },
   "7229172600": {
     "username": "jjyap881",
-    "xp": 478,
+    "xp": 466,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-11T16:56:01.275135+07:00",
+    "last_seen": "2026-02-06T00:47:02.837818+07:00",
     "last_xp_dates": {
-      "start": "2026-02-11",
-      "claim": "2026-02-07",
+      "start": "2025-10-26",
+      "claim": "2025-10-26",
       "freekey": "2025-10-26",
-      "profile": "2026-02-11",
-      "listvip": "2026-02-11",
+      "profile": "2025-10-26",
+      "listvip": "2026-02-06",
       "myvip": "2025-10-26",
       "random": "2025-10-26",
       "qris": "2025-10-26",
-      "joinvip": "2026-02-11",
-      "claimbio": "2026-02-11",
+      "joinvip": "2025-10-26",
+      "claimbio": "2025-10-27",
       "free": "2025-10-26",
-      "search": "2026-02-09",
+      "search": "2025-10-26",
       "panduan": "2025-10-26",
       "request": "2025-10-26",
       "lapor": "2025-10-26",
@@ -29754,12 +29663,10 @@
       "unlock_chessyfebyana": "2025-10-19",
       "unlock_rysanicol": "2025-10-23",
       "unlock_meilaniawang": "2025-10-24",
-      "unlock_elvinahalim": "2026-02-06",
-      "unlock_nikky": "2026-02-07",
-      "unlock_vanessaasoo": "2026-02-09"
+      "unlock_elvinahalim": "2026-02-06"
     },
-    "key": 1,
-    "last_weekly_claim": 1770403525,
+    "key": 0,
+    "last_weekly_claim": 1761238926,
     "supporter": true,
     "supporter_since": 1759420325,
     "vip_unlocked": [
@@ -29807,11 +29714,9 @@
       "rysanicol",
       "meilaniawang",
       "auliarr",
-      "elvinahalim",
-      "nikky",
-      "vanessaasoo"
+      "elvinahalim"
     ],
-    "last_daily_bio_claim": 1770803762,
+    "last_daily_bio_claim": 1761501066,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
@@ -29883,26 +29788,26 @@
   },
   "7840471341": {
     "username": "hanasan_p",
-    "xp": 20,
+    "xp": 15,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T00:36:21.280974+07:00",
+    "last_seen": "2025-10-20T23:28:26.049891+07:00",
     "last_xp_dates": {
-      "start": "2026-02-11",
-      "claim": "2026-02-11",
-      "freekey": "2026-02-11",
+      "start": "2025-10-03",
+      "claim": "2025-10-20",
+      "freekey": "2025-10-03",
       "claimbio": "2025-10-03",
       "free": "2025-10-03",
       "profile": "2025-10-03",
-      "listvip": "2026-02-11",
-      "panduan": "2026-02-11",
+      "listvip": "2025-10-20",
+      "panduan": "2025-10-03",
       "request": "2025-10-03",
       "myvip": "2025-10-20",
       "random": "2025-10-20",
       "joinvip": "2025-10-20",
       "unlock_uphmirror": "2025-10-20"
     },
-    "key": 5,
-    "last_weekly_claim": 1770744958,
+    "key": 3,
+    "last_weekly_claim": 1760976250,
     "supporter": false,
     "supporter_since": 0,
     "vip_unlocked": [
@@ -29957,17 +29862,17 @@
   },
   "7988180920": {
     "username": "tamaaznz",
-    "xp": 40,
+    "xp": 35,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T16:41:11.009836+07:00",
+    "last_seen": "2025-10-22T21:12:09.241811+07:00",
     "last_xp_dates": {
       "start": "2025-10-22",
       "joinvip": "2025-10-04",
-      "claimbio": "2026-02-10",
-      "claim": "2026-02-10",
+      "claimbio": "2025-10-04",
+      "claim": "2025-10-22",
       "freekey": "2025-10-12",
       "profile": "2025-10-12",
-      "listvip": "2026-02-10",
+      "listvip": "2025-10-22",
       "unlock_arachel": "2025-10-03",
       "unlock_andrea": "2025-10-03",
       "myvip": "2025-10-12",
@@ -29977,14 +29882,12 @@
       "unlock_nindya": "2025-10-12",
       "unlock_cindysmk": "2025-10-12",
       "unlock_sskyella": "2025-10-22",
-      "unlock_jairenenmich": "2025-10-22",
-      "unlock_racheizh": "2026-02-10",
-      "unlock_inshieravieta": "2026-02-10"
+      "unlock_jairenenmich": "2025-10-22"
     },
-    "supporter": false,
-    "supporter_since": 0,
+    "supporter": true,
+    "supporter_since": 1759583601,
     "key": 0,
-    "last_weekly_claim": 1770712834,
+    "last_weekly_claim": 1761142138,
     "vip_unlocked": [
       "arachel",
       "andrea",
@@ -29992,9 +29895,7 @@
       "nindya",
       "cindysmk",
       "sskyella",
-      "jairenenmich",
-      "racheizh",
-      "inshieravieta"
+      "jairenenmich"
     ]
   },
   "5988014433": {
@@ -30037,52 +29938,34 @@
   },
   "5598820317": {
     "username": "cipungg89",
-    "xp": 9999999999,
+    "xp": 10022,
     "badge": "Starlord 🥇",
-    "last_seen": "2026-02-10T10:08:10.490618+07:00",
+    "last_seen": "2025-10-15T12:55:59.240671+07:00",
     "last_xp_dates": {
       "start": "2025-10-11",
-      "profile": "2026-02-10",
-      "listvip": "2026-02-10",
+      "profile": "2025-10-03",
+      "listvip": "2025-10-15",
       "joinvip": "2025-10-08",
       "random": "2025-10-08",
       "freekey": "2025-10-08",
       "claimbio": "2025-10-03",
       "claim": "2025-10-03",
       "free": "2025-10-03",
-      "search": "2026-02-10",
+      "search": "2025-10-15",
       "request": "2025-10-08",
       "panduan": "2025-10-08",
       "myvip": "2025-10-08",
-      "lapor": "2026-02-10",
+      "lapor": "2025-10-08",
       "ping": "2025-10-08",
       "bot": "2025-10-08",
-      "qris": "2025-10-15",
-      "unlock_mantanistri": "2026-02-07",
-      "unlock_jilbabpondok": "2026-02-10",
-      "unlock_cansbrut": "2026-02-10",
-      "unlock_nayashayaya": "2026-02-10",
-      "unlock_laiza": "2026-02-10"
+      "qris": "2025-10-15"
     },
     "supporter": false,
     "supporter_since": 0,
-    "key": 13,
-    "last_weekly_claim": 1770692813,
+    "key": 12,
+    "last_weekly_claim": 1759483940,
     "prev_badge": "Stranger 🔰",
-    "prev_xp": 14,
-    "last_badge_reward": {
-      "to_badge": "Stellar 🥈",
-      "reward": 4,
-      "ts": "2026-02-07T08:23:24.127122+07:00"
-    },
-    "pending_badge_reward": false,
-    "vip_unlocked": [
-      "mantanistri",
-      "jilbabpondok",
-      "cansbrut",
-      "nayashayaya",
-      "laiza"
-    ]
+    "prev_xp": 14
   },
   "7492787315": {
     "username": "Xysaasila",
@@ -31043,51 +30926,43 @@
   },
   "5396172536": {
     "username": "Civani9",
-    "xp": 109,
-    "badge": "Shimmer 🥉",
-    "last_seen": "2026-02-10T18:52:45.721704+07:00",
+    "xp": 40,
+    "badge": "Stranger 🔰",
+    "last_seen": "2025-10-26T12:53:19.515943+07:00",
     "last_xp_dates": {
-      "start": "2026-02-10",
-      "listvip": "2026-02-10",
-      "profile": "2026-02-10",
-      "freekey": "2026-02-10",
+      "start": "2025-10-26",
+      "listvip": "2025-10-26",
+      "profile": "2025-10-26",
+      "freekey": "2025-10-26",
       "unlock_yaniesempeh": "2025-10-06",
       "unlock_cupel": "2025-10-06",
-      "claim": "2026-02-10",
-      "claimbio": "2026-02-10",
-      "joinvip": "2026-02-10",
-      "qris": "2026-02-10",
+      "claim": "2025-10-26",
+      "claimbio": "2025-10-22",
+      "joinvip": "2025-10-26",
+      "qris": "2025-10-26",
       "unlock_vinayuh": "2025-10-22",
       "unlock_pramukabrut": "2025-10-22",
-      "myvip": "2026-02-10",
-      "random": "2026-02-10",
-      "free": "2026-02-10",
-      "search": "2026-02-10",
-      "panduan": "2026-02-10",
-      "request": "2026-02-10",
-      "lapor": "2026-02-10",
-      "ping": "2026-02-10",
-      "bot": "2026-02-10",
-      "about": "2026-02-10",
-      "unlock_nayashayaya": "2026-02-10"
+      "myvip": "2025-10-26",
+      "random": "2025-10-26",
+      "free": "2025-10-26",
+      "search": "2025-10-26",
+      "panduan": "2025-10-26",
+      "request": "2025-10-26",
+      "lapor": "2025-10-26",
+      "ping": "2025-10-26",
+      "bot": "2025-10-26",
+      "about": "2025-10-26"
     },
     "supporter": false,
     "supporter_since": 0,
     "key": 0,
-    "last_weekly_claim": 1770389630,
+    "last_weekly_claim": 1761116893,
     "vip_unlocked": [
       "yaniesempeh",
       "cupel",
       "vinayuh",
-      "pramukabrut",
-      "nayashayaya"
-    ],
-    "last_badge_reward": {
-      "to_badge": "Shimmer 🥉",
-      "reward": 2,
-      "ts": "2026-02-10T18:50:42.759833+07:00"
-    },
-    "pending_badge_reward": false
+      "pramukabrut"
+    ]
   },
   "6659231587": {
     "username": "Dikazk123",
@@ -35051,16 +34926,16 @@
   },
   "8285274681": {
     "username": "can1callurose",
-    "xp": 247,
+    "xp": 244,
     "badge": "Stellar 🥈",
-    "last_seen": "2026-02-06T21:35:03.694716+07:00",
+    "last_seen": "2025-10-26T22:33:23.623122+07:00",
     "last_xp_dates": {
       "start": "2025-10-26",
       "qris": "2025-10-26",
       "freekey": "2025-10-26",
-      "listvip": "2026-02-06",
-      "claim": "2026-02-06",
-      "claimbio": "2026-02-06",
+      "listvip": "2025-10-26",
+      "claim": "2025-10-25",
+      "claimbio": "2025-10-26",
       "free": "2025-10-26",
       "search": "2025-10-25",
       "unlock_abgsmkk": "2025-10-12",
@@ -35091,8 +34966,8 @@
       "unlock_fathiahijab": "2025-10-26",
       "unlock_siskaamelia": "2025-10-26"
     },
-    "key": 3,
-    "last_weekly_claim": 1770388492,
+    "key": 0,
+    "last_weekly_claim": 1760870218,
     "supporter": true,
     "supporter_since": 1760262247,
     "vip_unlocked": [
@@ -35173,7 +35048,7 @@
       "ellele",
       "siskaamelia"
     ],
-    "last_daily_bio_claim": 1770388501,
+    "last_daily_bio_claim": 1761489413,
     "last_badge_reward": {
       "to_badge": "Stellar 🥈",
       "reward": 4,
@@ -36582,31 +36457,24 @@
   },
   "6970257924": {
     "username": "Curcuma23461",
-    "xp": 79,
+    "xp": 18,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T07:37:04.848565+07:00",
+    "last_seen": "2026-02-05T23:14:29.853820+07:00",
     "last_xp_dates": {
-      "start": "2026-02-11",
-      "freekey": "2026-02-11",
-      "claim": "2026-02-11",
-      "profile": "2026-02-11",
+      "start": "2025-10-14",
+      "freekey": "2026-02-05",
+      "claim": "2026-02-05",
+      "profile": "2026-02-05",
       "free": "2025-10-14",
-      "claimbio": "2026-02-11",
-      "myvip": "2026-02-11",
-      "listvip": "2026-02-11",
+      "claimbio": "2026-02-05",
+      "myvip": "2026-02-05",
+      "listvip": "2026-02-05",
       "unlock_filibrut": "2026-02-05",
       "unlock_alimmontok": "2026-02-05",
       "unlock_laelbigmo": "2026-02-05",
       "unlock_dinnurnd": "2026-02-05",
-      "about": "2026-02-11",
-      "request": "2026-02-11",
-      "joinvip": "2026-02-11",
-      "qris": "2026-02-11",
-      "panduan": "2026-02-11",
-      "search": "2026-02-11",
-      "lapor": "2026-02-11",
-      "ping": "2026-02-11",
-      "bot": "2026-02-11"
+      "about": "2026-02-05",
+      "request": "2026-02-05"
     },
     "key": 0,
     "last_weekly_claim": 1770304258,
@@ -39578,19 +39446,19 @@
   },
   "5733485704": {
     "username": "ytwqh_ag",
-    "xp": 10000000001,
-    "badge": "Starlord 🥇",
-    "last_seen": "2026-02-09T04:06:07.302514+07:00",
+    "xp": 10005,
+    "badge": "Stellar 🥈",
+    "last_seen": "2026-02-06T01:24:49.034989+07:00",
     "last_xp_dates": {
       "start": "2025-10-25",
-      "profile": "2026-02-08",
-      "listvip": "2026-02-09",
-      "random": "2026-02-08",
+      "profile": "2026-02-06",
+      "listvip": "2026-02-06",
+      "random": "2025-10-25",
       "unlock_laelbigmo": "2025-10-24",
       "myvip": "2025-10-25",
       "qris": "2025-10-25",
-      "joinvip": "2026-02-08",
-      "freekey": "2026-02-08",
+      "joinvip": "2026-02-06",
+      "freekey": "2025-10-25",
       "claimbio": "2025-10-25",
       "claim": "2025-10-25",
       "free": "2025-10-25",
@@ -39601,7 +39469,7 @@
     },
     "supporter": false,
     "supporter_since": 0,
-    "key": 10,
+    "key": 0,
     "last_weekly_claim": 1761293636,
     "vip_unlocked": [
       "laelbigmo",
@@ -39629,22 +39497,20 @@
   },
   "6895773884": {
     "username": "serpantl",
-    "xp": 18,
+    "xp": 14,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T09:38:52.582206+07:00",
+    "last_seen": "2026-02-05T19:40:02.807102+07:00",
     "last_xp_dates": {
       "start": "2025-10-24",
       "freekey": "2025-10-24",
-      "listvip": "2026-02-08",
+      "listvip": "2026-02-05",
       "panduan": "2025-10-24",
       "claim": "2026-02-05",
       "unlock_laelbigmo": "2025-10-24",
       "qris": "2025-10-26",
       "unlock_adinda": "2025-10-26",
       "search": "2026-02-05",
-      "unlock_allen": "2026-02-05",
-      "profile": "2026-02-09",
-      "lapor": "2026-02-08"
+      "unlock_allen": "2026-02-05"
     },
     "key": 1,
     "last_weekly_claim": 1770295187,
@@ -39652,9 +39518,7 @@
       "laelbigmo",
       "adinda",
       "allen"
-    ],
-    "supporter": false,
-    "supporter_since": 0
+    ]
   },
   "8057660007": {
     "username": "supremee12",
@@ -40006,12 +39870,12 @@
   },
   "7255882007": {
     "username": "stiiizy2dizzyy",
-    "xp": 6,
+    "xp": 3,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T08:08:47.417547+07:00",
+    "last_seen": "2026-02-06T03:03:08.003983+07:00",
     "last_xp_dates": {
-      "profile": "2026-02-11",
-      "listvip": "2026-02-08"
+      "profile": "2026-02-06",
+      "listvip": "2026-02-06"
     },
     "supporter": false,
     "supporter_since": 0,
@@ -40020,11 +39884,11 @@
   },
   "6733644731": {
     "username": "BatuBatao",
-    "xp": 4,
+    "xp": 3,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T17:33:19.064610+07:00",
+    "last_seen": "2026-02-05T18:34:35.101204+07:00",
     "last_xp_dates": {
-      "claim": "2026-02-11",
+      "claim": "2026-02-05",
       "listvip": "2026-02-05",
       "unlock_monicanyssa": "2026-02-05"
     },
@@ -40036,78 +39900,61 @@
   },
   "6929837312": {
     "username": "boboboi557",
-    "xp": 23,
+    "xp": 3,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T21:20:12.426959+07:00",
+    "last_seen": "2026-02-05T18:48:33.594746+07:00",
     "last_xp_dates": {
-      "listvip": "2026-02-11",
-      "profile": "2026-02-10",
-      "lapor": "2026-02-09",
-      "start": "2026-02-09",
-      "unlock_francescajoli": "2026-02-08",
-      "myvip": "2026-02-08",
-      "unlock_araaaaaa": "2026-02-08",
-      "claim": "2026-02-09",
-      "joinvip": "2026-02-09"
+      "listvip": "2026-02-05",
+      "profile": "2026-02-05",
+      "lapor": "2026-02-05"
     },
     "supporter": false,
-    "supporter_since": 0,
-    "key": 0,
-    "last_weekly_claim": 1770489404,
-    "vip_unlocked": [
-      "francescajoli",
-      "araaaaaa"
-    ]
+    "supporter_since": 0
   },
   "5497668870": {
     "username": "frootlooops",
-    "xp": 34,
+    "xp": 16,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T10:02:06.354111+07:00",
+    "last_seen": "2026-02-05T18:53:00.990990+07:00",
     "last_xp_dates": {
-      "myvip": "2026-02-10",
-      "listvip": "2026-02-10",
-      "start": "2026-02-10",
-      "claim": "2026-02-10",
-      "freekey": "2026-02-10",
-      "panduan": "2026-02-10",
-      "profile": "2026-02-10",
-      "ping": "2026-02-10",
-      "lapor": "2026-02-10",
-      "qris": "2026-02-10",
-      "search": "2026-02-10",
-      "joinvip": "2026-02-10",
-      "claimbio": "2026-02-10",
-      "request": "2026-02-10",
-      "bot": "2026-02-10",
-      "about": "2026-02-10",
-      "unlock_najwaaulia": "2026-02-06"
+      "myvip": "2026-02-05",
+      "listvip": "2026-02-05",
+      "start": "2026-02-05",
+      "claim": "2026-02-05",
+      "freekey": "2026-02-05",
+      "panduan": "2026-02-05",
+      "profile": "2026-02-05",
+      "ping": "2026-02-05",
+      "lapor": "2026-02-05",
+      "qris": "2026-02-05",
+      "search": "2026-02-05",
+      "joinvip": "2026-02-05",
+      "claimbio": "2026-02-05",
+      "request": "2026-02-05",
+      "bot": "2026-02-05",
+      "about": "2026-02-05"
     },
-    "key": 0,
+    "key": 2,
     "last_weekly_claim": 1770292233,
     "supporter": false,
-    "supporter_since": 0,
-    "vip_unlocked": [
-      "najwaaulia"
-    ]
+    "supporter_since": 0
   },
   "7019198251": {
     "username": "supersemarvid_admin",
-    "xp": 16,
+    "xp": 10,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T22:19:04.068869+07:00",
+    "last_seen": "2026-02-05T23:14:40.947368+07:00",
     "last_xp_dates": {
-      "myvip": "2026-02-11",
-      "profile": "2026-02-11",
-      "freekey": "2026-02-11",
+      "myvip": "2026-02-05",
+      "profile": "2026-02-05",
+      "freekey": "2026-02-05",
       "claimbio": "2026-02-05",
-      "claim": "2026-02-11",
+      "claim": "2026-02-05",
       "listvip": "2026-02-05",
       "random": "2026-02-05",
       "bot": "2026-02-05",
-      "joinvip": "2026-02-11",
-      "unlock_gabrielasania": "2026-02-05",
-      "qris": "2026-02-11"
+      "joinvip": "2026-02-05",
+      "unlock_gabrielasania": "2026-02-05"
     },
     "supporter": false,
     "supporter_since": 0,
@@ -40138,40 +39985,35 @@
   },
   "7128569697": {
     "username": "Kokkamunasm",
-    "xp": 6,
+    "xp": 3,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T21:15:00.456934+07:00",
+    "last_seen": "2026-02-06T01:28:22.864677+07:00",
     "last_xp_dates": {
       "start": "2026-02-06",
       "freekey": "2026-02-06",
-      "claim": "2026-02-10",
-      "myvip": "2026-02-06",
-      "listvip": "2026-02-06"
+      "claim": "2026-02-06"
     },
     "key": 2,
     "last_weekly_claim": 1770316103
   },
   "7347006402": {
     "username": "plontoszz",
-    "xp": 8,
+    "xp": 4,
     "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T02:03:32.344497+07:00",
+    "last_seen": "2026-02-06T02:10:05.675498+07:00",
     "last_xp_dates": {
-      "claimbio": "2026-02-09",
-      "claim": "2026-02-09",
-      "listvip": "2026-02-09",
-      "unlock_araaaaaa": "2026-02-06",
-      "unlock_lulukabg": "2026-02-09"
+      "claimbio": "2026-02-06",
+      "claim": "2026-02-06",
+      "listvip": "2026-02-06",
+      "unlock_araaaaaa": "2026-02-06"
     },
     "supporter_since": 1770318568,
     "supporter": true,
     "key": 0,
     "last_weekly_claim": 1770318577,
     "vip_unlocked": [
-      "araaaaaa",
-      "lulukabg"
-    ],
-    "last_daily_bio_claim": 1770577382
+      "araaaaaa"
+    ]
   },
   "1373537505": {
     "username": "modsraz",
@@ -40182,1594 +40024,5 @@
       "listvip": "2026-02-06",
       "freekey": "2026-02-06"
     }
-  },
-  "7814647795": {
-    "username": "Hmmmmmmmmm1122345",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T04:15:28.524112+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-10",
-      "myvip": "2026-02-06",
-      "listvip": "2026-02-06",
-      "unlock_faithcans": "2026-02-06"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770336884,
-    "vip_unlocked": [
-      "faithcans"
-    ]
-  },
-  "1807676514": {
-    "username": "Lets_see_this",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-06T07:15:18.937313+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-06"
-    },
-    "key": 2,
-    "last_weekly_claim": 1770336919
-  },
-  "8519724841": {
-    "username": "-",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-06T12:16:28.433242+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-06",
-      "claim": "2026-02-06",
-      "listvip": "2026-02-06",
-      "unlock_fayaaretha13": "2026-02-06",
-      "claimbio": "2026-02-06",
-      "freekey": "2026-02-06"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770354872,
-    "vip_unlocked": [
-      "fayaaretha13"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "7656793619": {
-    "username": "oneluckybastards",
-    "xp": 12,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T21:08:02.509850+07:00",
-    "last_xp_dates": {
-      "claimbio": "2026-02-07",
-      "claim": "2026-02-07",
-      "lapor": "2026-02-06",
-      "start": "2026-02-06",
-      "qris": "2026-02-06",
-      "profile": "2026-02-07",
-      "myvip": "2026-02-07",
-      "about": "2026-02-07",
-      "listvip": "2026-02-07"
-    },
-    "supporter_since": 1770363259,
-    "supporter": true,
-    "key": 8,
-    "last_weekly_claim": 1770363267,
-    "last_daily_bio_claim": 1770471927
-  },
-  "7953652219": {
-    "username": "ehehehees",
-    "xp": 13,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T22:56:51.419789+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-09",
-      "claimbio": "2026-02-09",
-      "start": "2026-02-08",
-      "listvip": "2026-02-08",
-      "unlock_abgsmkk": "2026-02-06",
-      "freekey": "2026-02-08",
-      "unlock_fathiahijab": "2026-02-08"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770364837,
-    "supporter_since": 1770364841,
-    "supporter": true,
-    "vip_unlocked": [
-      "abgsmkk",
-      "fathiahijab"
-    ],
-    "last_daily_bio_claim": 1770488680
-  },
-  "6321545321": {
-    "username": "ahmadrasyid_07",
-    "xp": 19,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T23:15:32.211147+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-06",
-      "freekey": "2026-02-09",
-      "claim": "2026-02-11",
-      "listvip": "2026-02-11",
-      "unlock_naurandhf": "2026-02-08",
-      "unlock_chelsyaadila": "2026-02-08",
-      "panduan": "2026-02-08",
-      "qris": "2026-02-09",
-      "unlock_parera": "2026-02-09",
-      "unlock_jasmines": "2026-02-09",
-      "unlock_laelbigmo": "2026-02-09",
-      "unlock_laiza": "2026-02-11",
-      "unlock_dillahcans": "2026-02-11",
-      "unlock_jairenenmich": "2026-02-11"
-    },
-    "key": 5,
-    "last_weekly_claim": 1770520156,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila",
-      "parera",
-      "jasmines",
-      "laelbigmo",
-      "laiza",
-      "dillahcans",
-      "jairenenmich"
-    ]
-  },
-  "8400261143": {
-    "username": "Yanyan33357",
-    "xp": 9,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T08:28:36.861090+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-10",
-      "listvip": "2026-02-09",
-      "unlock_hyynmii": "2026-02-06",
-      "unlock_indomilk": "2026-02-06"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770395162,
-    "vip_unlocked": [
-      "hyynmii",
-      "indomilk"
-    ]
-  },
-  "5795049815": {
-    "username": "Rajapengkor",
-    "xp": 10000000003,
-    "badge": "Starlord 🥇",
-    "last_seen": "2026-02-10T15:36:45.704575+07:00",
-    "last_xp_dates": {
-      "lapor": "2026-02-07",
-      "freekey": "2026-02-07",
-      "search": "2026-02-10",
-      "listvip": "2026-02-09"
-    },
-    "prev_badge": "Stranger 🔰",
-    "prev_xp": 2,
-    "key": 10
-  },
-  "7329677081": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T01:55:21.986196+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "7564771633": {
-    "username": "Mieayammmmllll",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T02:57:08.322076+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "1072461747": {
-    "username": "gggggg985",
-    "xp": 3,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T06:07:07.496672+07:00",
-    "last_xp_dates": {
-      "myvip": "2026-02-08",
-      "claim": "2026-02-09"
-    },
-    "key": 2,
-    "last_weekly_claim": 1770592027
-  },
-  "1238494828": {
-    "username": "De_Masterniel",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T04:11:23.841765+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "1617943394": {
-    "username": "Onepacee1",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T06:17:45.261277+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "6400106492": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T07:10:20.600685+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "6586959722": {
-    "username": "rrqkairi",
-    "xp": 3,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T09:27:54.320671+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "freekey": "2026-02-07",
-      "listvip": "2026-02-07"
-    }
-  },
-  "7996688189": {
-    "username": "weirdo99999",
-    "xp": 4,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T09:48:09.698252+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "claim": "2026-02-07",
-      "profile": "2026-02-07",
-      "myvip": "2026-02-07"
-    },
-    "key": 2,
-    "last_weekly_claim": 1770432466,
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "5571169475": {
-    "username": "-",
-    "xp": 11,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T00:01:05.964219+07:00",
-    "last_xp_dates": {
-      "myvip": "2026-02-09",
-      "claim": "2026-02-09",
-      "listvip": "2026-02-09",
-      "lapor": "2026-02-07",
-      "freekey": "2026-02-07",
-      "panduan": "2026-02-07",
-      "qris": "2026-02-07",
-      "search": "2026-02-09"
-    },
-    "key": 9,
-    "last_weekly_claim": 1770436010
-  },
-  "1274289108": {
-    "username": "BryanTama23",
-    "xp": 15,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T21:00:24.767132+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "listvip": "2026-02-09",
-      "qris": "2026-02-09",
-      "claim": "2026-02-08",
-      "lapor": "2026-02-09",
-      "claimbio": "2026-02-07",
-      "unlock_jasmines": "2026-02-07",
-      "unlock_najwaaulia": "2026-02-07",
-      "unlock_hauraaila": "2026-02-09"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770435782,
-    "supporter": false,
-    "supporter_since": 0,
-    "vip_unlocked": [
-      "jasmines",
-      "najwaaulia",
-      "hauraaila"
-    ]
-  },
-  "6570938830": {
-    "username": "Hwvwvjs",
-    "xp": 4,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T19:08:29.545852+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-07",
-      "claimbio": "2026-02-08",
-      "listvip": "2026-02-07"
-    },
-    "key": 3,
-    "last_weekly_claim": 1770433484,
-    "supporter_since": 1770433487,
-    "supporter": true,
-    "last_daily_bio_claim": 1770552510
-  },
-  "6368838949": {
-    "username": "-",
-    "xp": 16,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T18:01:45.854898+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "listvip": "2026-02-08",
-      "qris": "2026-02-07",
-      "lapor": "2026-02-07",
-      "joinvip": "2026-02-07",
-      "unlock_jasmines": "2026-02-07",
-      "unlock_tocilsma": "2026-02-07",
-      "unlock_lailahijab": "2026-02-08",
-      "unlock_nabilaimani": "2026-02-08",
-      "freekey": "2026-02-08",
-      "myvip": "2026-02-08",
-      "panduan": "2026-02-08",
-      "unlock_pasutrinoid69": "2026-02-08",
-      "unlock_vinayuh": "2026-02-08",
-      "unlock_aila": "2026-02-08"
-    },
-    "key": 0,
-    "vip_unlocked": [
-      "jasmines",
-      "tocilsma",
-      "lailahijab",
-      "nabilaimani",
-      "pasutrinoid69",
-      "vinayuh",
-      "aila"
-    ]
-  },
-  "8583887032": {
-    "username": "eeniemeeniemoel",
-    "xp": 12,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T07:33:02.218762+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-11",
-      "claimbio": "2026-02-11",
-      "listvip": "2026-02-08",
-      "unlock_arranirysavaa": "2026-02-07",
-      "profile": "2026-02-11",
-      "unlock_jilbabpondok": "2026-02-08",
-      "myvip": "2026-02-11"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770455538,
-    "supporter_since": 1770455542,
-    "supporter": true,
-    "vip_unlocked": [
-      "arranirysavaa",
-      "jilbabpondok"
-    ],
-    "last_daily_bio_claim": 1770512920
-  },
-  "7565997438": {
-    "username": "innv24",
-    "xp": 41,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T19:20:33.411687+07:00",
-    "last_xp_dates": {
-      "claimbio": "2026-02-10",
-      "start": "2026-02-10",
-      "profile": "2026-02-10",
-      "myvip": "2026-02-10",
-      "listvip": "2026-02-10",
-      "claim": "2026-02-10",
-      "unlock_naurandhf": "2026-02-09",
-      "unlock_fayaaretha13": "2026-02-09",
-      "joinvip": "2026-02-10",
-      "qris": "2026-02-10",
-      "freekey": "2026-02-10",
-      "search": "2026-02-10",
-      "panduan": "2026-02-10",
-      "request": "2026-02-10",
-      "lapor": "2026-02-10",
-      "ping": "2026-02-10",
-      "bot": "2026-02-10",
-      "about": "2026-02-10",
-      "unlock_chelsyaadila": "2026-02-10",
-      "unlock_azorapramantya": "2026-02-10"
-    },
-    "supporter_since": 1770465801,
-    "supporter": true,
-    "key": 0,
-    "last_daily_bio_claim": 1770581943,
-    "last_weekly_claim": 1770581947,
-    "vip_unlocked": [
-      "naurandhf",
-      "fayaaretha13",
-      "chelsyaadila",
-      "azorapramantya"
-    ]
-  },
-  "5925368916": {
-    "username": "maemaszj",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T20:58:15.547990+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "8571666261": {
-    "username": "introvert_habis",
-    "xp": 16,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T22:42:08.436563+07:00",
-    "last_xp_dates": {
-      "ping": "2026-02-07",
-      "bot": "2026-02-07",
-      "about": "2026-02-07",
-      "lapor": "2026-02-07",
-      "request": "2026-02-07",
-      "panduan": "2026-02-07",
-      "search": "2026-02-07",
-      "claim": "2026-02-07",
-      "claimbio": "2026-02-07",
-      "freekey": "2026-02-07",
-      "joinvip": "2026-02-07",
-      "qris": "2026-02-07",
-      "myvip": "2026-02-07",
-      "profile": "2026-02-07",
-      "listvip": "2026-02-07",
-      "start": "2026-02-07"
-    },
-    "key": 2,
-    "last_weekly_claim": 1770478842,
-    "supporter_since": 1770478848,
-    "supporter": true
-  },
-  "1262069806": {
-    "username": "Fadlee99",
-    "xp": 3,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T01:17:42.738504+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "listvip": "2026-02-07"
-    }
-  },
-  "6548770918": {
-    "username": "jk_cyikn",
-    "xp": 10000000001,
-    "badge": "Starlord 🥇",
-    "last_seen": "2026-02-08T13:16:00.898200+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "listvip": "2026-02-08",
-      "freekey": "2026-02-07",
-      "claim": "2026-02-07",
-      "unlock_naurandhf": "2026-02-07",
-      "unlock_chelsyaadila": "2026-02-07",
-      "ping": "2026-02-07",
-      "profile": "2026-02-07",
-      "random": "2026-02-08",
-      "panduan": "2026-02-07",
-      "qris": "2026-02-07",
-      "joinvip": "2026-02-07",
-      "request": "2026-02-07",
-      "bot": "2026-02-07",
-      "about": "2026-02-07"
-    },
-    "key": 10,
-    "last_weekly_claim": 1770480058,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila"
-    ],
-    "supporter": false,
-    "supporter_since": 0,
-    "prev_badge": "Stranger 🔰",
-    "prev_xp": 15
-  },
-  "1346194127": {
-    "username": "Userituajaudah",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T22:59:57.663649+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "7978335713": {
-    "username": "-",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T23:16:37.107571+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "freekey": "2026-02-07",
-      "claim": "2026-02-07",
-      "listvip": "2026-02-07",
-      "unlock_chelsyaadila": "2026-02-07",
-      "unlock_naurandhf": "2026-02-07"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770480529,
-    "vip_unlocked": [
-      "chelsyaadila",
-      "naurandhf"
-    ]
-  },
-  "8549402089": {
-    "username": "Doctors453",
-    "xp": 5,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T23:21:50.623055+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "listvip": "2026-02-07",
-      "claim": "2026-02-07",
-      "freekey": "2026-02-07",
-      "unlock_jilbabpondok": "2026-02-07"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770481061,
-    "vip_unlocked": [
-      "jilbabpondok"
-    ]
-  },
-  "6977067399": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T23:17:36.114675+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07"
-    }
-  },
-  "2051065940": {
-    "username": "-",
-    "xp": 11,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T07:36:32.832090+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "claim": "2026-02-09",
-      "freekey": "2026-02-07",
-      "panduan": "2026-02-07",
-      "search": "2026-02-07",
-      "listvip": "2026-02-08",
-      "unlock_naurandhf": "2026-02-07",
-      "unlock_azorapramantya": "2026-02-08",
-      "qris": "2026-02-09"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770481427,
-    "vip_unlocked": [
-      "naurandhf",
-      "azorapramantya"
-    ]
-  },
-  "6580770918": {
-    "username": null,
-    "xp": 0,
-    "badge": "Stranger 🔰",
-    "last_xp_dates": {},
-    "key": 10
-  },
-  "1077086260": {
-    "username": "-",
-    "xp": 7,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-07T23:46:19.284928+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "freekey": "2026-02-07",
-      "panduan": "2026-02-07",
-      "listvip": "2026-02-07",
-      "claim": "2026-02-07",
-      "unlock_naurandhf": "2026-02-07",
-      "unlock_chelsyaadila": "2026-02-07"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770482647,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila"
-    ]
-  },
-  "6048495333": {
-    "username": "-",
-    "xp": 19,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T16:37:31.773381+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-07",
-      "listvip": "2026-02-09",
-      "claimbio": "2026-02-09",
-      "claim": "2026-02-09",
-      "unlock_naurandhf": "2026-02-07",
-      "unlock_chelsyaadila": "2026-02-08",
-      "qris": "2026-02-09",
-      "unlock_jasmines": "2026-02-09",
-      "myvip": "2026-02-09",
-      "joinvip": "2026-02-09",
-      "search": "2026-02-09",
-      "freekey": "2026-02-09",
-      "unlock_anikkacamaya": "2026-02-09",
-      "unlock_sharminemalay": "2026-02-09"
-    },
-    "supporter": false,
-    "supporter_since": 0,
-    "key": 0,
-    "last_weekly_claim": 1770483010,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila",
-      "jasmines",
-      "anikkacamaya",
-      "sharminemalay"
-    ]
-  },
-  "5903543058": {
-    "username": "ahmadargya",
-    "xp": 18,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T22:43:54.176636+07:00",
-    "last_xp_dates": {
-      "ping": "2026-02-07",
-      "start": "2026-02-11",
-      "claim": "2026-02-11",
-      "freekey": "2026-02-08",
-      "listvip": "2026-02-08",
-      "unlock_naurandhf": "2026-02-08",
-      "unlock_chelsyaadila": "2026-02-08",
-      "panduan": "2026-02-08",
-      "qris": "2026-02-08",
-      "profile": "2026-02-08",
-      "claimbio": "2026-02-08",
-      "unlock_laelbigmo": "2026-02-08",
-      "unlock_christina": "2026-02-08"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770483103,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila",
-      "laelbigmo",
-      "christina"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "8595239379": {
-    "username": "-",
-    "xp": 7,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T00:07:52.118094+07:00",
-    "last_xp_dates": {
-      "ping": "2026-02-08",
-      "start": "2026-02-07",
-      "listvip": "2026-02-07",
-      "freekey": "2026-02-07",
-      "qris": "2026-02-08",
-      "joinvip": "2026-02-08"
-    }
-  },
-  "8288772839": {
-    "username": "-",
-    "xp": 7,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T00:11:01.525517+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "claim": "2026-02-08",
-      "freekey": "2026-02-08",
-      "listvip": "2026-02-08",
-      "panduan": "2026-02-08",
-      "search": "2026-02-08",
-      "unlock_naurandhf": "2026-02-08"
-    },
-    "key": 1,
-    "last_weekly_claim": 1770483853,
-    "vip_unlocked": [
-      "naurandhf"
-    ]
-  },
-  "1852257722": {
-    "username": "btch8",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T00:53:32.862507+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "8586587995": {
-    "username": "-",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T01:11:12.676276+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "listvip": "2026-02-08"
-    }
-  },
-  "6815650992": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T01:58:22.443215+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "1104519419": {
-    "username": "caostirrawm",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T02:19:26.797414+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "6494926569": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T05:53:56.655366+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "1296576289": {
-    "username": "ngabjerr",
-    "xp": 45,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T23:28:31.222568+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09",
-      "claim": "2026-02-08",
-      "listvip": "2026-02-11",
-      "unlock_naurandhf": "2026-02-08",
-      "freekey": "2026-02-09",
-      "qris": "2026-02-11",
-      "claimbio": "2026-02-09",
-      "request": "2026-02-09",
-      "unlock_chelsyaadila": "2026-02-08",
-      "joinvip": "2026-02-09",
-      "myvip": "2026-02-11",
-      "profile": "2026-02-11",
-      "lapor": "2026-02-11",
-      "unlock_stephanie": "2026-02-08",
-      "unlock_jairenenmich": "2026-02-08",
-      "panduan": "2026-02-09",
-      "search": "2026-02-08",
-      "about": "2026-02-08",
-      "unlock_evajayaputri": "2026-02-08",
-      "unlock_parera": "2026-02-08",
-      "unlock_nfahier": "2026-02-08",
-      "unlock_angelinajostin": "2026-02-08",
-      "unlock_itsveka": "2026-02-08",
-      "unlock_saviragunawan": "2026-02-09",
-      "unlock_jasmines": "2026-02-09",
-      "unlock_fayaaretha13": "2026-02-09",
-      "unlock_christina": "2026-02-09",
-      "unlock_gabriellyn": "2026-02-11"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770505834,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila",
-      "stephanie",
-      "jairenenmich",
-      "evajayaputri",
-      "parera",
-      "nfahier",
-      "angelinajostin",
-      "itsveka",
-      "saviragunawan",
-      "jasmines",
-      "fayaaretha13",
-      "christina",
-      "gabriellyn"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "1360062308": {
-    "username": "jufvbnjitff",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T07:40:41.912762+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "listvip": "2026-02-08",
-      "freekey": "2026-02-08",
-      "profile": "2026-02-08",
-      "claim": "2026-02-08",
-      "unlock_naurandhf": "2026-02-08"
-    },
-    "supporter": false,
-    "supporter_since": 0,
-    "key": 1,
-    "last_weekly_claim": 1770511228,
-    "vip_unlocked": [
-      "naurandhf"
-    ]
-  },
-  "6562882211": {
-    "username": "gaskara_a",
-    "xp": 32,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T22:11:48.999489+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "claim": "2026-02-11",
-      "claimbio": "2026-02-11",
-      "listvip": "2026-02-11",
-      "unlock_naurandhf": "2026-02-08",
-      "unlock_azorapramantya": "2026-02-08",
-      "qris": "2026-02-11",
-      "profile": "2026-02-11",
-      "myvip": "2026-02-10",
-      "request": "2026-02-08",
-      "lapor": "2026-02-11",
-      "joinvip": "2026-02-08",
-      "freekey": "2026-02-11",
-      "search": "2026-02-11",
-      "ping": "2026-02-08",
-      "unlock_chelsyaadila": "2026-02-09",
-      "unlock_tocilcantik": "2026-02-09",
-      "unlock_felidchristy": "2026-02-11"
-    },
-    "key": 5,
-    "last_weekly_claim": 1770514616,
-    "supporter": false,
-    "supporter_since": 0,
-    "vip_unlocked": [
-      "naurandhf",
-      "azorapramantya",
-      "chelsyaadila",
-      "tocilcantik",
-      "felidchristy"
-    ],
-    "last_daily_bio_claim": 1770675600
-  },
-  "8299323979": {
-    "username": "zukoanwar",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T22:55:05.709406+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "claim": "2026-02-11",
-      "listvip": "2026-02-08",
-      "unlock_azorapramantya": "2026-02-08",
-      "claimbio": "2026-02-11"
-    },
-    "key": 1,
-    "last_weekly_claim": 1770522293,
-    "vip_unlocked": [
-      "azorapramantya"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "8585201104": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T11:18:50.592061+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "7947962965": {
-    "username": "hunga9",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T11:31:58.213338+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "listvip": "2026-02-08"
-    }
-  },
-  "6495273399": {
-    "username": "Rifiigtg",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T12:59:12.617727+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "6752483222": {
-    "username": "Amanda3Lynch1",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T16:20:35.796507+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "freekey": "2026-02-08",
-      "claim": "2026-02-08",
-      "claimbio": "2026-02-08",
-      "listvip": "2026-02-08",
-      "unlock_chelsyaadila": "2026-02-08"
-    },
-    "key": 1,
-    "last_weekly_claim": 1770532885,
-    "supporter": false,
-    "supporter_since": 0,
-    "vip_unlocked": [
-      "chelsyaadila"
-    ]
-  },
-  "1604378892": {
-    "username": "Ayosiapaitu",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T15:42:04.430186+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "6548929868": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T16:58:02.846316+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "7701578663": {
-    "username": "phvusszz",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T17:22:14.819928+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "6526871722": {
-    "username": "Rizkysaputra33",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T19:08:15.618900+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08"
-    }
-  },
-  "7715569043": {
-    "username": "syptraaaq",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T22:59:37.371498+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "listvip": "2026-02-08"
-    }
-  },
-  "8232938744": {
-    "username": "-",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-08T23:14:18.187022+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-08",
-      "listvip": "2026-02-08"
-    }
-  },
-  "60484953": {
-    "username": null,
-    "xp": 0,
-    "badge": "Stranger 🔰",
-    "last_xp_dates": {},
-    "key": 2
-  },
-  "1675890968": {
-    "username": "Romae0",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T01:25:27.233020+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09"
-    }
-  },
-  "7592521156": {
-    "username": "Galax_7",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T10:34:56.829431+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09"
-    }
-  },
-  "1386046157": {
-    "username": "rezakian01",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T14:47:09.467854+07:00",
-    "last_xp_dates": {
-      "profile": "2026-02-11"
-    },
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "5267471020": {
-    "username": "-",
-    "xp": 10,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T18:06:01.667305+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09",
-      "claim": "2026-02-09",
-      "listvip": "2026-02-09",
-      "unlock_chelsyaadila": "2026-02-09",
-      "unlock_laelbigmo": "2026-02-09",
-      "freekey": "2026-02-09",
-      "panduan": "2026-02-09",
-      "qris": "2026-02-09",
-      "unlock_azorapramantya": "2026-02-09",
-      "unlock_naurandhf": "2026-02-09"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770611458,
-    "vip_unlocked": [
-      "chelsyaadila",
-      "laelbigmo",
-      "azorapramantya",
-      "naurandhf"
-    ]
-  },
-  "1394244826": {
-    "username": "-",
-    "xp": 14,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T20:52:54.633738+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09",
-      "freekey": "2026-02-10",
-      "claim": "2026-02-10",
-      "listvip": "2026-02-10",
-      "unlock_araaaaaa": "2026-02-09",
-      "qris": "2026-02-10",
-      "joinvip": "2026-02-10",
-      "claimbio": "2026-02-10",
-      "panduan": "2026-02-10",
-      "request": "2026-02-10",
-      "search": "2026-02-10"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770612506,
-    "vip_unlocked": [
-      "araaaaaa"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "8207725043": {
-    "username": "delusional1234",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T16:37:18.946886+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09"
-    }
-  },
-  "1759141559": {
-    "username": "Mxztod",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T17:42:02.388876+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09"
-    }
-  },
-  "6687358814": {
-    "username": "dineyushoa",
-    "xp": 12,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T23:39:05.902791+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09",
-      "listvip": "2026-02-09",
-      "freekey": "2026-02-09",
-      "claim": "2026-02-09",
-      "unlock_azorapramantya": "2026-02-09",
-      "unlock_naurandhf": "2026-02-09",
-      "panduan": "2026-02-09",
-      "qris": "2026-02-09",
-      "profile": "2026-02-09",
-      "claimbio": "2026-02-09",
-      "unlock_laelbigmo": "2026-02-09",
-      "unlock_chelsyaadila": "2026-02-09"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770648149,
-    "vip_unlocked": [
-      "azorapramantya",
-      "naurandhf",
-      "laelbigmo",
-      "chelsyaadila"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "8072115018": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T22:28:23.296841+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09"
-    }
-  },
-  "5562023437": {
-    "username": "t_chen1097",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T23:06:50.471213+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09"
-    }
-  },
-  "6039648188": {
-    "username": "-",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-09T23:34:25.207157+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-09",
-      "listvip": "2026-02-09"
-    }
-  },
-  "8388283964": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T00:00:31.670095+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10"
-    }
-  },
-  "8020361005": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T00:02:53.603730+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10"
-    }
-  },
-  "6439637703": {
-    "username": "-",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T01:10:00.058622+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "listvip": "2026-02-10"
-    }
-  },
-  "5651817171": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T01:20:54.331464+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10"
-    }
-  },
-  "6953513380": {
-    "username": "Rickinisty",
-    "xp": 14,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T02:18:18.705917+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "profile": "2026-02-10",
-      "listvip": "2026-02-10",
-      "unlock_bungahijab": "2026-02-10",
-      "claim": "2026-02-10",
-      "freekey": "2026-02-10",
-      "unlock_kerudungmalay": "2026-02-10",
-      "qris": "2026-02-10",
-      "unlock_fifisharma": "2026-02-10",
-      "unlock_inggarindiani": "2026-02-10",
-      "unlock_mantanhijab": "2026-02-10",
-      "unlock_alieyhijab": "2026-02-10",
-      "unlock_hijabbening": "2026-02-10",
-      "unlock_chelsea": "2026-02-10"
-    },
-    "supporter": false,
-    "supporter_since": 0,
-    "key": 0,
-    "last_weekly_claim": 1770662696,
-    "vip_unlocked": [
-      "bungahijab",
-      "kerudungmalay",
-      "fifisharma",
-      "inggarindiani",
-      "mantanhijab",
-      "alieyhijab",
-      "hijabbening",
-      "chelsea"
-    ]
-  },
-  "5095635224": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T01:53:38.221144+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10"
-    }
-  },
-  "6596717168": {
-    "username": "incess138",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T02:39:02.024680+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10"
-    }
-  },
-  "8077552199": {
-    "username": "Veryirawan2299",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T03:01:24.592545+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10"
-    }
-  },
-  "6658151321": {
-    "username": "Bukanaliennnnn",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T04:33:19.314032+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "listvip": "2026-02-10"
-    }
-  },
-  "6885362882": {
-    "username": "-",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T06:44:40.208521+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "listvip": "2026-02-10"
-    }
-  },
-  "5200190466": {
-    "username": "-",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T17:23:55.618253+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "claim": "2026-02-10",
-      "listvip": "2026-02-10",
-      "myvip": "2026-02-10",
-      "unlock_chelsyaadila": "2026-02-10",
-      "unlock_naurandhf": "2026-02-10"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770699240,
-    "vip_unlocked": [
-      "chelsyaadila",
-      "naurandhf"
-    ]
-  },
-  "8386747467": {
-    "username": "-",
-    "xp": 5,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T12:17:39.801235+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "listvip": "2026-02-10",
-      "claim": "2026-02-10",
-      "panduan": "2026-02-10",
-      "search": "2026-02-10"
-    },
-    "key": 2,
-    "last_weekly_claim": 1770700218
-  },
-  "7192210431": {
-    "username": "nvrmindyouwerenevermine",
-    "xp": 3,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T13:38:32.757153+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-10",
-      "listvip": "2026-02-10",
-      "unlock_anggitiktok": "2026-02-10"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770705404,
-    "vip_unlocked": [
-      "anggitiktok"
-    ]
-  },
-  "8213953813": {
-    "username": "zyrx_1",
-    "xp": 16,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T15:57:08.855340+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "listvip": "2026-02-10",
-      "profile": "2026-02-10",
-      "myvip": "2026-02-10",
-      "claimbio": "2026-02-10",
-      "qris": "2026-02-10",
-      "joinvip": "2026-02-10",
-      "freekey": "2026-02-10",
-      "search": "2026-02-10",
-      "panduan": "2026-02-10",
-      "request": "2026-02-10",
-      "ping": "2026-02-10",
-      "lapor": "2026-02-10",
-      "bot": "2026-02-10",
-      "about": "2026-02-10",
-      "unlock_jilbabpondok": "2026-02-10"
-    },
-    "supporter": false,
-    "supporter_since": 0,
-    "key": 0,
-    "last_weekly_claim": 1770713337,
-    "vip_unlocked": [
-      "jilbabpondok"
-    ]
-  },
-  "761293933": {
-    "username": "siu7777728",
-    "xp": 9,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T18:52:29.952247+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "claim": "2026-02-10",
-      "listvip": "2026-02-10",
-      "unlock_naurandhf": "2026-02-10",
-      "claimbio": "2026-02-10",
-      "qris": "2026-02-10",
-      "profile": "2026-02-10",
-      "unlock_jasmines": "2026-02-10",
-      "unlock_chelsyaadila": "2026-02-10"
-    },
-    "key": 1,
-    "last_weekly_claim": 1770723736,
-    "vip_unlocked": [
-      "naurandhf",
-      "jasmines",
-      "chelsyaadila"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "8234153232": {
-    "username": "-",
-    "xp": 6,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-10T19:33:23.148516+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-10",
-      "claim": "2026-02-10",
-      "freekey": "2026-02-10",
-      "listvip": "2026-02-10",
-      "unlock_kerudungmalay": "2026-02-10",
-      "unlock_lulukabg": "2026-02-10"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770726621,
-    "vip_unlocked": [
-      "kerudungmalay",
-      "lulukabg"
-    ]
-  },
-  "6742611838": {
-    "username": "akusiukajawa",
-    "xp": 4,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T00:11:39.336276+07:00",
-    "last_xp_dates": {
-      "freekey": "2026-02-11",
-      "claim": "2026-02-11",
-      "claimbio": "2026-02-11",
-      "listvip": "2026-02-11"
-    },
-    "key": 2,
-    "last_weekly_claim": 1770743460,
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "1089668819": {
-    "username": "mmmyumyburgur",
-    "xp": 10,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T23:06:07.657460+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11",
-      "listvip": "2026-02-11",
-      "qris": "2026-02-11",
-      "claim": "2026-02-11",
-      "unlock_azorapramantya": "2026-02-11",
-      "unlock_naurandhf": "2026-02-11",
-      "unlock_chelsyaadila": "2026-02-11",
-      "unlock_mantanhijab": "2026-02-11",
-      "freekey": "2026-02-11",
-      "claimbio": "2026-02-11"
-    },
-    "key": 2,
-    "last_weekly_claim": 1770745281,
-    "vip_unlocked": [
-      "azorapramantya",
-      "naurandhf",
-      "chelsyaadila",
-      "mantanhijab"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "7557153174": {
-    "username": "T4mmaa",
-    "xp": 2,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T01:20:28.636228+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11",
-      "listvip": "2026-02-11"
-    }
-  },
-  "8426984366": {
-    "username": "mooringoo",
-    "xp": 10000000000,
-    "badge": "Starlord 🥇",
-    "last_seen": "2026-02-11T19:31:03.744789+07:00",
-    "last_xp_dates": {
-      "claim": "2026-02-11",
-      "listvip": "2026-02-11",
-      "unlock_faithcans": "2026-02-11",
-      "joinvip": "2026-02-11",
-      "start": "2026-02-11",
-      "qris": "2026-02-11",
-      "lapor": "2026-02-11",
-      "ping": "2026-02-11",
-      "search": "2026-02-11"
-    },
-    "key": 10,
-    "last_weekly_claim": 1770759626,
-    "vip_unlocked": [
-      "faithcans"
-    ],
-    "prev_badge": "Stranger 🔰",
-    "prev_xp": 8
-  },
-  "7106724536": {
-    "username": "rsyrf",
-    "xp": 10000000000,
-    "badge": "Starlord 🥇",
-    "last_seen": "2026-02-11T23:46:19.755698+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11",
-      "freekey": "2026-02-11",
-      "listvip": "2026-02-11",
-      "panduan": "2026-02-11",
-      "claim": "2026-02-11",
-      "unlock_chelsyaadila": "2026-02-11",
-      "unlock_naurandhf": "2026-02-11",
-      "qris": "2026-02-11",
-      "claimbio": "2026-02-11",
-      "joinvip": "2026-02-11",
-      "lapor": "2026-02-11",
-      "profile": "2026-02-11",
-      "request": "2026-02-11",
-      "myvip": "2026-02-11",
-      "search": "2026-02-11"
-    },
-    "key": 20,
-    "last_weekly_claim": 1770772954,
-    "vip_unlocked": [
-      "chelsyaadila",
-      "naurandhf"
-    ],
-    "supporter": false,
-    "supporter_since": 0,
-    "prev_badge": "Stranger 🔰",
-    "prev_xp": 14
-  },
-  "6597069810": {
-    "username": "cykenlover",
-    "xp": 12,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T18:47:56.555623+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11",
-      "panduan": "2026-02-11",
-      "listvip": "2026-02-11",
-      "claim": "2026-02-11",
-      "unlock_naurandhf": "2026-02-11",
-      "unlock_chelsyaadila": "2026-02-11",
-      "qris": "2026-02-11",
-      "joinvip": "2026-02-11",
-      "profile": "2026-02-11",
-      "ping": "2026-02-11",
-      "lapor": "2026-02-11",
-      "search": "2026-02-11"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770780539,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "6860640674": {
-    "username": "-",
-    "xp": 8,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T12:11:53.714855+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11",
-      "claim": "2026-02-11",
-      "freekey": "2026-02-11",
-      "panduan": "2026-02-11",
-      "listvip": "2026-02-11",
-      "unlock_naurandhf": "2026-02-11",
-      "unlock_chelsyaadila": "2026-02-11",
-      "claimbio": "2026-02-11"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770783426,
-    "vip_unlocked": [
-      "naurandhf",
-      "chelsyaadila"
-    ],
-    "supporter": false,
-    "supporter_since": 0
-  },
-  "7942569755": {
-    "username": "hhhhhndd",
-    "xp": 5,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T11:25:42.999047+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11",
-      "claim": "2026-02-11",
-      "listvip": "2026-02-11",
-      "unlock_naurandhf": "2026-02-11",
-      "unlock_azorapramantya": "2026-02-11"
-    },
-    "key": 0,
-    "last_weekly_claim": 1770783628,
-    "vip_unlocked": [
-      "naurandhf",
-      "azorapramantya"
-    ]
-  },
-  "1310814517": {
-    "username": "-",
-    "xp": 1,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T15:26:48.285746+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11"
-    }
-  },
-  "8402336956": {
-    "username": "Bnwauth",
-    "xp": 3,
-    "badge": "Stranger 🔰",
-    "last_seen": "2026-02-11T22:05:08.891916+07:00",
-    "last_xp_dates": {
-      "start": "2026-02-11",
-      "profile": "2026-02-11",
-      "lapor": "2026-02-11"
-    },
-    "supporter": false,
-    "supporter_since": 0
   }
 }
