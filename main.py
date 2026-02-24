@@ -4924,7 +4924,7 @@ async def join_vip(client, message):
 async def cb_joinvip_lifetime(client, cq: CallbackQuery):
     keyboard = InlineKeyboardMarkup([
         [InlineKeyboardButton("🔑 Join via Trakteer", callback_data="joinvip_trakteer")],
-        [InlineKeyboardButton("💳 Join via Saweria", callback_data="joinvip_saweria")],
+        [InlineKeyboardButton("💳 Join via QRIS", callback_data="joinvip_saweria")],
         [InlineKeyboardButton("⬅️ Kembali", callback_data="joinvip_back")]
     ])
 
@@ -4951,7 +4951,7 @@ async def cb_joinvip_lifetime(client, cq: CallbackQuery):
 async def cb_joinvip_monthly(client, cq: CallbackQuery):
     keyboard = InlineKeyboardMarkup([
         [InlineKeyboardButton("🔑 Join via Trakteer", callback_data="joinvip_monthly_trakteer")],
-        [InlineKeyboardButton("💳 Join via Saweria", callback_data="joinvip_monthly_saweria")],
+        [InlineKeyboardButton("💳 Join via QRIS", callback_data="joinvip_monthly_saweria")],
         [InlineKeyboardButton("⬅️ Kembali", callback_data="joinvip_back")]
     ])
 
@@ -5027,27 +5027,27 @@ async def cb_joinvip_trakteer(client, cq: CallbackQuery):
 @ app.on_callback_query(filters.regex(r"^joinvip_saweria$"))
 async def cb_joinvip_saweria(client, cq: CallbackQuery):
     user = cq.from_user
-    url_saweria = "https://saweria.co/BangsaBacol"
+    url_saweria = "https://drive.google.com/file/d/19elfw-16ekiRh-jkdnHU-lMW_xjroAUD/view?usp=sharing"
 
     teks = (
         "┏━━━━━━━━━━━━━━━\n"
-        "┃ 💳 <b>JOIN VIP via Saweria</b>\n"
+        "┃ 💳 <b>JOIN VIP via QRIS</b>\n"
         "┗━━━━━━━━━━━━━━━\n\n"
         "📌 <b>Ikuti langkah ini:</b>\n"
         "<pre>"
-        f"1. Masuk ke <a href='{url_saweria}'>Saweria</a>\n"
+        f"1. Masuk ke <a href='{url_saweria}'>QRIS</a>\n"
         "2. Masukkan <b>ID Telegram</b> kamu di kolom pesan\n"
         f"3. Lakukan pembayaran total <b>{LIFETIME_PRICE}</b>\n"
         "4. Tulis pesan <i>JOIN VIP</i> saat transfer\n"
         "5. Screenshot bukti pembayaran buat jaga-jaga.\n"
         "</pre>"
         f"🆔 <b>ID Telegram:</b> <code>{user.id}</code>\n\n"
-        "👑 <b>VIP jalur saweria harus invite manual, jadi mohon bersabar!</b>\n"
+        "👑 <b>VIP jalur QRIS harus invite manual, jadi mohon bersabar!</b>\n"
         "⚠️ <i>Jika kamu belum masuk Room VIP <b>1x24jam</b> langsung lapor ke Admin-Pusat!</i>"
     )
 
     keyboard = InlineKeyboardMarkup([
-        [InlineKeyboardButton("💳 Buka Saweria", url=url_saweria)],
+        [InlineKeyboardButton("💳 Buka QRIS", url=url_saweria)],
         [InlineKeyboardButton("❌ Batal", callback_data="joinvip_cancel")]
     ])
 
@@ -5063,7 +5063,7 @@ async def cb_joinvip_saweria(client, cq: CallbackQuery):
         "━━━━━━━━━━━━\n"
         f"👤 Dari   : {user.mention}\n"
         f"🆔 ID     : <code>{user.id}</code>\n"
-        f"📦 Metode : Saweria (Lifetime)\n"
+        f"📦 Metode : QRIS (Lifetime)\n"
         f"🕒 Waktu  : {now}\n\n"
         f"⚠️ <b>Silahkan {format_admin_mentions()} konfirmasi!</b>"
     )
@@ -5116,27 +5116,27 @@ async def cb_joinvip_monthly_trakteer(client, cq: CallbackQuery):
 @ app.on_callback_query(filters.regex(r"^joinvip_monthly_saweria$"))
 async def cb_joinvip_monthly_saweria(client, cq: CallbackQuery):
     user = cq.from_user
-    url_saweria = "https://saweria.co/BangsaBacol"
+    url_saweria = "https://drive.google.com/file/d/19elfw-16ekiRh-jkdnHU-lMW_xjroAUD/view?usp=sharing"
 
     teks = (
         "┏━━━━━━━━━━━━━━━\n"
-        "┃ 💳 <b>JOIN VIP via Saweria</b>\n"
+        "┃ 💳 <b>JOIN VIP via QRIS</b>\n"
         "┗━━━━━━━━━━━━━━━\n\n"
         "📌 <b>Ikuti langkah ini:</b>\n"
         "<pre>"
-        f"1. Masuk ke <a href='{url_saweria}'>Saweria</a>\n"
+        f"1. Masuk ke <a href='{url_saweria}'>QRIS</a>\n"
         "2. Masukkan <b>ID Telegram</b> kamu di kolom pesan\n"
         f"3. Lakukan pembayaran total <b>{MONTHLY_PRICE}</b>\n"
         "4. Tulis pesan <i>JOIN VIP MONTHLY</i> saat transfer\n"
         "5. Screenshot bukti pembayaran buat jaga-jaga.\n"
         "</pre>"
         f"🆔 <b>ID Telegram:</b> <code>{user.id}</code>\n\n"
-        "👑 <b>VIP jalur saweria harus invite manual, jadi mohon bersabar!</b>\n"
+        "👑 <b>VIP jalur QRIS harus invite manual, jadi mohon bersabar!</b>\n"
         "⚠️ <i>Jika kamu belum masuk Room VIP <b>1x24jam</b> langsung lapor ke Admin-Pusat!</i>"
     )
 
     keyboard = InlineKeyboardMarkup([
-        [InlineKeyboardButton("💳 Buka Saweria", url=url_saweria)],
+        [InlineKeyboardButton("💳 Buka QRIS", url=url_saweria)],
         [InlineKeyboardButton("❌ Batal", callback_data="joinvip_cancel")]
     ])
 
@@ -5152,7 +5152,7 @@ async def cb_joinvip_monthly_saweria(client, cq: CallbackQuery):
         "━━━━━━━━━━━━\n"
         f"👤 Dari   : {user.mention}\n"
         f"🆔 ID     : <code>{user.id}</code>\n"
-        f"📦 Metode : Saweria (Monthly)\n"
+        f"📦 Metode : QRIS (Monthly)\n"
         f"🕒 Waktu  : {now}\n\n"
         f"⚠️ <b>Silahkan {format_admin_mentions()} konfirmasi!</b>"
     )
@@ -5223,15 +5223,12 @@ async def qris_topup(client, message):
         "┏━━━━━━━━━━━━━━━\n"
         "┃ 💳 <b>CARA TOP UP KEY</b>\n"
         "┗━━━━━━━━━━━━━━━\n\n"
-        "<b>KALAU INI TOP UP PERTAMAMU:</b>\n"
-        "<a href='https://t.me/BangsaBacol/182'>🎁 <b>PROMO STARTER KEY</b> 🎁</a>\n\n"
-        "━━━━━━━━━━━━━━━━━━━━━━━━\n"
         "📌 <b>Rate:</b> Rp5.000 = 1 KEY\n"
         "📌 <b>Minimal:</b> 2 KEY (Rp10.000)\n\n"
         "🔑 <b>Langkah-langkah:</b>\n"
         "1️⃣ Klik tombol <b>TOP UP SEKARANG</b>\n"
         "2️⃣ Masukkan jumlah Key yang ingin dibeli\n"
-        "3️⃣ Lanjutkan pembayaran via <b>Saweria/QRIS</b>\n\n"
+        "3️⃣ Lanjutkan pembayaran via <b>QRIS</b>\n\n"
         f"🆔 <b>ID Telegram kamu:</b> <code>{user_id}</code>\n"
         "━━━━━━━━━━━━━━━━━━━━━━━━\n"
         "✨ <i>Proses cepat & otomatis. Pastikan ID Telegram ditulis dengan benar!</i>"
@@ -5305,7 +5302,7 @@ async def qris_session_handler(client, message):
 
     # ✅ input valid
     total_idr = jumlah_key * 5000
-    url_topup = "https://saweria.co/BangsaBacol"
+    url_topup = "https://drive.google.com/file/d/19elfw-16ekiRh-jkdnHU-lMW_xjroAUD/view?usp=sharing"
     now = datetime.now(JAKARTA_TZ).strftime("%d-%m-%Y %H:%M:%S")
 
     keyboard = InlineKeyboardMarkup(
