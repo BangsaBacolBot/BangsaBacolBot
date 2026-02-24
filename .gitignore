@@ -1,12 +1,26 @@
-# === RUNTIME DATA (JANGAN PERNAH DIPULL) ===
-data/*.json
-vip_*.json
-votes.json
+# === Runtime Data (JANGAN PERNAH COMMIT) ===
+vip_collections.json
+vip_links.json
+stream_links.json
 
-# === MEDIA & LOG ===
-Img/
+data/user_data.json
+random_quota.json
+user_activity.json
+
 logs/
+*.log
 
-# === SESSION & SECRET ===
-.env
+# Telegram session
 *.session*
+*.session-journal
+
+# Temp & backup
+*.now
+*.bak
+*.old
+*backup*
+*.tmp
+
+# Env
+.env
+
