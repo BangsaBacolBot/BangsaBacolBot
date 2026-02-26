@@ -5231,6 +5231,7 @@ async def qris_topup(client, message):
         "3️⃣ Lanjutkan pembayaran via <b>QRIS</b>\n\n"
         f"🆔 <b>ID Telegram kamu:</b> <code>{user_id}</code>\n"
         "━━━━━━━━━━━━━━━━━━━━━━━━\n"
+        "🎬 <a href='https://t.me/BangsaBacolViral/43'>Jika masih bingung tonton video ini!</a>\n"
         "✨ <i>Proses cepat & otomatis. Pastikan ID Telegram ditulis dengan benar!</i>"
     )
 
